@@ -315,7 +315,7 @@ http://158.101.222.193:88/georgia_play.php?id=amediahit
 http://158.101.222.193:88/georgia_play.php?id=amediapremium
 #EXTINF:-1  tvg-id="kinopokaz"   tvg-name="Кинопоказ",КИНОПОКАЗ
 #EXTGRP:Кино
-http://89.232.68.194:8080/kinopokaz/tracks-v3a1/index.m3u8
+http://hls127.freeott.top:8080/Kinopokaz_HD/video.m3u8
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino" group-title="Кино",TV1000 Русское кино
 http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
 #EXTINF:-1 group-title="Кино",Иллюзион+
@@ -569,6 +569,7 @@ https://fl1001.bozztv.com/ushba55/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sveta" tvg-id="no_epg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0fYMfZzNWBmtndr8f9a9U9fQW6tKK7pBLhg&s", Гимнастика
 
 https://fl1004.bozztv.com/ushba-flocke/tracks-v1a1/mono.m3u8
+
 
 
 
