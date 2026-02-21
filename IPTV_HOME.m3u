@@ -346,7 +346,7 @@ http://dmitry-tv.ddns.net/hls/CH_CINEMA.m3u8
 http://vod.tuva.ru/kinotv/index.m3u8
 #EXTINF:-1  tvg-id="ostrosiuzhetnoe-hd" ,Остросюжетное HD
 #EXTGRP:Кино
-http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/904/index.m3u8
+http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/9044/index.m3u8
 #EXTINF:-1  tvg-id="premialnoe-hd" ,Премиальное HD
 #EXTGRP:Кино
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/2410/index.m3u8
@@ -567,6 +567,7 @@ https://fl1001.bozztv.com/ushba55/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sveta" tvg-id="no_epg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0fYMfZzNWBmtndr8f9a9U9fQW6tKK7pBLhg&s", Гимнастика
 
 https://fl1004.bozztv.com/ushba-flocke/tracks-v1a1/mono.m3u8
+
 
 
 
