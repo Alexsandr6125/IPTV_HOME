@@ -189,6 +189,9 @@ http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/17016/index.m3u8
 #EXTINF:-1  tvg-id="vhs-ka"  tvg-logo="https://iptvx.one/picons/vhs-ka.png" ,VHS-каᴴᴰ
 #EXTGRP:VHS
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/5006/index.m3u8
+#EXTINF:-1  tvg-id="no_epg_cinema"  tvg-logo="http://i120.fastpic.org/big/2022/0720/74/52a7882bf655f06a149bf9b06147dd74.png" , Видеокассетаᴴᴰ
+#EXTGRP:VHS
+https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/chunks.m3u8
 #EXTINF:-1  tvg-id="vf-vhs"  tvg-logo="https://iptvx.one/picons/vf-vhs.png" ,VF VHS MIX
 #EXTGRP:VHS
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/10009/index.m3u8
@@ -213,9 +216,6 @@ https://homtv.ru/WVd4NVlVQnRZV2xzTG5KMQ/1702.m3u8
 #EXTINF:-1  tvg-id="sky-high-wizz-vhs-fhd" ,SKY HIGH WIZZ VHS FHD
 #EXTGRP:VHS
 https://homtv.ru/WVd4NVlVQnRZV2xzTG5KMQ/1706.m3u8
-#EXTINF:-1  tvg-id="no_epg_cinema"  tvg-logo="http://i120.fastpic.org/big/2022/0720/74/52a7882bf655f06a149bf9b06147dd74.png" , Видеокассетаᴴᴰ
-#EXTGRP:VHS
-http://195.9.195.3:8080/hls/176975.m3u8
 
 
 
@@ -569,6 +569,7 @@ https://fl1001.bozztv.com/ushba55/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sveta" tvg-id="no_epg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0fYMfZzNWBmtndr8f9a9U9fQW6tKK7pBLhg&s", Гимнастика
 
 https://fl1004.bozztv.com/ushba-flocke/tracks-v1a1/mono.m3u8
+
 
 
 
