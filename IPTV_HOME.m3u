@@ -3,7 +3,7 @@
 
 
 #EXTINF:-1 group-title="Инфо" tvg-logo="https://img.freepik.com/premium-vector/social-media-icon-cartoon-art_729283-92.jpg?semt=ais_hybrid&w=740",IPTV_HOME 21.02.26
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8?|User-agent=HlsWinkPlayer
+http://95.66.188.74/VHS/index.m3u8
 
 
 
@@ -570,6 +570,7 @@ https://fl1001.bozztv.com/ushba55/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sveta" tvg-id="no_epg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0fYMfZzNWBmtndr8f9a9U9fQW6tKK7pBLhg&s", Гимнастика
 
 https://fl1004.bozztv.com/ushba-flocke/tracks-v1a1/mono.m3u8
+
 
 
 
