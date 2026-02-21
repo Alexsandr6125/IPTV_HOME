@@ -354,7 +354,7 @@ http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/2410/index.m3u8
 
 
 #EXTINF:-1 group-title="Кино+",Кинопремьера
-https://vod.splay.uz/live_splay/original/Kinopremera/tracks-v1a1/mono.m3u8
+http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/9020/index.m3u8
 #EXTINF:-1 group-title="Кино+",Кинохит
 http://158.101.222.193:88/georgia_play.php?id=kinohit
 #EXTINF:-1 group-title="Кино+",Киносемья
@@ -362,7 +362,7 @@ http://158.101.222.193:88/georgia_play.php?id=kinosemya
 #EXTINF:-1 group-title="Кино+",Киносвидание
 http://158.101.222.193:88/georgia_play.php?id=kinosvidanie
 #EXTINF:-1 tvg-id="kinomiks" group-title="Кино+", Киномикс
-https://vod.splay.uz/live_splay/original/KinomiksHD/tracks-v1a1/mono.m3u8
+http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/9126/index.m3u8
 #EXTINF:-1 tvg-id="kinouzhas" group-title="Кино+", Киноужас SD
 http://158.101.222.193:88/georgia_play.php?id=kinoujas
 #EXTINF:-1 tvg-id="nashe-novoe-kino" group-title="Кино+",Наше новое кино
@@ -567,6 +567,7 @@ https://fl1001.bozztv.com/ushba55/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sveta" tvg-id="no_epg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0fYMfZzNWBmtndr8f9a9U9fQW6tKK7pBLhg&s", Гимнастика
 
 https://fl1004.bozztv.com/ushba-flocke/tracks-v1a1/mono.m3u8
+
 
 
 
