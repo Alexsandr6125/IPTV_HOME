@@ -200,22 +200,22 @@ http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/10009/index.m3u8
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/10010/index.m3u8
 #EXTINF:-1  tvg-id="sky-high-fear-vhs-fhd" ,SKY HIGH FEAR VHS FHD
 #EXTGRP:VHS
-https://homtv.ru/WVd4NVlVQnRZV2xzTG5KMQ/1673.m3u8
+http://185.234.59.200:8080/SKY_HIGH_FEAR_VHS_FHD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1  tvg-id="sky-high-strike-vhs-fhd" ,SKY HIGH STRIKE VHS FHD
 #EXTGRP:VHS
-https://homtv.ru/WVd4NVlVQnRZV2xzTG5KMQ/1679.m3u8
-#EXTINF:-1  tvg-id="sky-high-neonvhs-fhd" ,SKY HIGH NEONVHS FHD
+http://185.234.59.200:8080/SKY_HIGH_STRIKE_VHS_FHD/video.m3u8?token=5uGLTS1oibSIu0
+#EXTINF:-1  tvg-id="sky-high-neonvhs-fhd" ,SKY HIGH NEON VHS FHD
 #EXTGRP:VHS
-https://homtv.ru/WVd4NVlVQnRZV2xzTG5KMQ/1685.m3u8
+http://185.234.59.200:8080/SKY_HIGH_NEON_VHS_FHD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1  tvg-id="sky-high-case-vhs-fhd" ,SKY HIGH CASE VHS FHD
 #EXTGRP:VHS
-https://homtv.ru/WVd4NVlVQnRZV2xzTG5KMQ/1697.m3u8
+http://185.234.59.200:8080/SKY_HIGH_CASE_VHS_FHD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1  tvg-id="sky-high-medy-vhs-fhd" ,SKY HIGH MEDY VHS FHD
 #EXTGRP:VHS
-https://homtv.ru/WVd4NVlVQnRZV2xzTG5KMQ/1702.m3u8
+http://185.234.59.200:8080/SKY_HIGH_MEDY_VHS_FHD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1  tvg-id="sky-high-wizz-vhs-fhd" ,SKY HIGH WIZZ VHS FHD
 #EXTGRP:VHS
-https://homtv.ru/WVd4NVlVQnRZV2xzTG5KMQ/1706.m3u8
+http://185.234.59.200:8080/SKY_HIGH_WIZZ_VHS_FHD/video.m3u8?token=5uGLTS1oibSIu0
 
 
 
@@ -756,6 +756,7 @@ https://fl1001.bozztv.com/ushba55/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sveta" tvg-id="no_epg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0fYMfZzNWBmtndr8f9a9U9fQW6tKK7pBLhg&s", Гимнастика
 
 https://fl1004.bozztv.com/ushba-flocke/tracks-v1a1/mono.m3u8
+
 
 
 
