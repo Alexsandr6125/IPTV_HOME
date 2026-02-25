@@ -698,8 +698,9 @@ https://d9rd4243pcy92.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 
 
 
-#EXTINF:-1 tvg-logo="https://u2.9111s.ru/uploads/202304/04/d220b6253ee45c20bbebc416f4c3468c.jpg" tvg-id="no_epg_cinema" group-title="Fashion", Тик Ток
-https://fl1001.bozztv.com/ushba61/index.m3u8
+#EXTINF:-1 tvg-logo="http://46.17.41.254:2020/logos/fashion-and-lifestyle-hd.png" ,Bikini
+#EXTGRP:Fashion
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/8f00dd6b-9a8e-4614-8537-dd95d5fd7707/0.m3u8
 #EXTINF:-1 tvg-id="world-fashion-channel" group-title="Fashion",World Fashion
 https://fl1001.bozztv.com/ushba19/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="https://iptvx.one/picons/fashion-tv.png" group-title="Fashion",Fashion Czech & Slovak
@@ -724,6 +725,12 @@ http://fashs043.cloudycdn.services/scte/midnite/midnite_1080p_chunklist.m3u8
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="https://iptvx.one/picons/fashion-tv.png" group-title="Fashion", CODE FASHION
 https://cdn2.invivo.bg/Codefashion_5500/index.fmp4.m3u8
+#EXTINF:-1  tvg-logo="http://46.17.41.254:2020/logos/fashion-and-lifestyle-hd.png" ,Global Fashion HD
+#EXTGRP:Fashion
+https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
+#EXTINF:-1  tvg-id="FashionTVParisLOriginal.fr@SD"  tvg-logo="https://i.imgur.com/GFTAN5Q.png" ,Fashion TV Paris L'Originalᴴᴰ
+#EXTGRP:Fashion
+https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
 #EXTINF:-1 tvg-id="no_epg" group-title="Fashion" tvg-logo="https://iptvx.one/picons/fashion-tv.png" ,Мода 1
 https://fl1001.bozztv.com/ushba-t8/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="no_epg" group-title="Fashion" tvg-logo="https://iptvx.one/picons/fashion-tv.png" ,Мода 2
@@ -751,6 +758,7 @@ https://s06.watcher.uz/117/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9
 https://fl1001.bozztv.com/ushba55/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sveta" tvg-id="no_epg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0fYMfZzNWBmtndr8f9a9U9fQW6tKK7pBLhg&s", Гимнастика
 https://fl1004.bozztv.com/ushba-flocke/tracks-v1a1/mono.m3u8
+
 
 
 
