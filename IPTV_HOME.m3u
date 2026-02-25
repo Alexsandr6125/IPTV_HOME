@@ -743,39 +743,12 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_2/variant.m3u8?|User-agent=
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_U_2/variant.m3u8?|User-agent=HlsWinkPlayer
 #EXTINF:-1 group-title="Sveta" tvg-logo="http://epg.it999.ru/img/113.png",ЖИВИ!
-http://185.58.205.1:4022/udp/224.0.90.53:1234
+http://31.210.208.171:8080/jivi/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Sveta", Живи активно HD
 https://s06.watcher.uz/117/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
 #EXTINF:-1 group-title="Sveta" tvg-id="no_epg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0fYMfZzNWBmtndr8f9a9U9fQW6tKK7pBLhg&s", Чирлидинг
 https://fl1001.bozztv.com/ushba55/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sveta" tvg-id="no_epg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0fYMfZzNWBmtndr8f9a9U9fQW6tKK7pBLhg&s", Гимнастика
 https://fl1004.bozztv.com/ushba-flocke/tracks-v1a1/mono.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
