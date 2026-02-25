@@ -709,20 +709,12 @@ http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 http://cdn.wfc.tv/cdn/stream-eng-1080p.m3u8
 #EXTINF:-1 tvg-id="world-fashion-channel" tvg-logo="https://iptvx.one/picons/world-fashion-channel.png" group-title="Fashion",World Fashion Channel
 http://live-3.otcnet.ru/wfcrus/index.m3u8
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://iptvx.one/picons/fashion-tv.png" group-title="Fashion",Fashion TV Africa
-http://fashs043.cloudycdn.services/scte/africa/africa_chunklist.m3u8
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="https://iptvx.one/picons/fashion-tv.png" group-title="Fashion",Fashion Czech & Slovak
 http://80.94.54.42/fashiontv/stream/playlist.m3u8
-#EXTINF:-1 group-title="Fashion",Fashion TV HD
-http://91.247.68.229:8000/play/Fashion/index.m3u8
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="https://iptvx.one/picons/fashion-tv.png" group-title="Fashion",WFC HD
 http://cdn.wfc.tv/cdn/stream-rus-1080p.m3u8
 #EXTINF:-1 group-title="Fashion", Fashion TV
 http://fashion.mediacdn.ru/cdn/fashiontv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://iptvx.one/picons/fashion-tv.png" group-title="Fashion",Fashion TV Midnight Secret FHD
-http://fashs043.cloudycdn.services/scte/midnite/midnite_1080p_chunklist.m3u8
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://iptvx.one/picons/fashion-tv.png" group-title="Fashion",FASHION ONE
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="https://iptvx.one/picons/fashion-tv.png" group-title="Fashion", CODE FASHION
 https://cdn2.invivo.bg/Codefashion_5500/index.fmp4.m3u8
 #EXTINF:-1  tvg-logo="http://46.17.41.254:2020/logos/fashion-and-lifestyle-hd.png" ,Global Fashion HD
@@ -758,6 +750,7 @@ https://s06.watcher.uz/117/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9
 https://fl1001.bozztv.com/ushba55/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sveta" tvg-id="no_epg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0fYMfZzNWBmtndr8f9a9U9fQW6tKK7pBLhg&s", Гимнастика
 https://fl1004.bozztv.com/ushba-flocke/tracks-v1a1/mono.m3u8
+
 
 
 
