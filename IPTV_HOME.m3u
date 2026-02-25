@@ -222,82 +222,76 @@ https://homtv.ru/WVd4NVlVQnRZV2xzTG5KMQ/1706.m3u8
 
 #EXTINF:-1  tvg-id="sky-high-bunny-hd"  tvg-logo="https://iptvx.one/picons/sky-high-bunny-hd.png" ,SKY HIGH BUNNY HD
 #EXTGRP:SKY HIGH
-https://homtv.ru/WVd4NVlVQnRZV2xzTG5KMQ/1666.m3u8
+http://185.234.59.200:8080/BUNNYHD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1  tvg-id="sky-high-teen-fhd" ,SKY HIGH TEEN FHD
 #EXTGRP:SKY HIGH
-https://homtv.ru/WVd4NVlVQnRZV2xzTG5KMQ/1690.m3u8
+http://185.234.59.200:8080/SKY_HIGH_TEEN_FHD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1  tvg-id="sky-high-boom-fhd" ,SKY HIGH BOOM FHD
 #EXTGRP:SKY HIGH
-https://homtv.ru/WVd4NVlVQnRZV2xzTG5KMQ/1691.m3u8
+http://185.234.59.200:8080/SKY_HIGH_BOOM_FHD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1  tvg-id="sky-high-beyond-s-fhd"  tvg-logo="https://iptvx.one/picons/sky-high-beyond-s-fhd.png" ,SKY HIGH BEYOND S FHD
 #EXTGRP:SKY HIGH
-https://homtv.ru/WVd4NVlVQnRZV2xzTG5KMQ/1671.m3u8
+http://185.234.59.200:8080/SKY_HIGH_BEYOND_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1  tvg-id="sky-high-scream-fhd"  tvg-logo="https://iptvx.one/picons/sky-high-scream-fhd.png" ,SKY HIGH SCREAM FHD
 #EXTGRP:SKY HIGH
-https://homtv.ru/WVd4NVlVQnRZV2xzTG5KMQ/1672.m3u8
+http://185.234.59.200:8080/SKY_HIGH_SCREAM_FHD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1  tvg-id="sky-high-brick-s-fhd" ,SKY HIGH BRICK S FHD
 #EXTGRP:SKY HIGH
-https://homtv.ru/WVd4NVlVQnRZV2xzTG5KMQ/1677.m3u8
-#EXTINF:-1  tvg-id="sky-high-dusts-fhd" ,SKY HIGH DUSTS FHD
-#EXTGRP:SKY HIGH
-https://homtv.ru/WVd4NVlVQnRZV2xzTG5KMQ/1678.m3u8
+http://185.234.59.200:8080/SKY_HIGH_BRICK_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1  tvg-id="sky-high-firezone-fhd" ,SKY HIGH FIREZONE FHD
 #EXTGRP:SKY HIGH
-https://homtv.ru/WVd4NVlVQnRZV2xzTG5KMQ/1680.m3u8
+http://185.234.59.200:8080/SKY_HIGH_FIREZONE_FHD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1  tvg-id="sky-high-gunrush-fhd" ,SKY HIGH GUNRUSH FHD
 #EXTGRP:SKY HIGH
-https://homtv.ru/WVd4NVlVQnRZV2xzTG5KMQ/1681.m3u8
+http://185.234.59.200:8080/SKY_HIGH_GUNRUSH_FHD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1  tvg-id="sky-high-quants-fhd" ,SKY HIGH QUANTS FHD
 #EXTGRP:SKY HIGH
-https://homtv.ru/WVd4NVlVQnRZV2xzTG5KMQ/1682.m3u8
+http://185.234.59.200:8080/SKY_HIGH_QUANT_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1  tvg-id="sky-high-tanoss-fhd" ,SKY HIGH TANOS S FHD
 #EXTGRP:SKY HIGH
-https://homtv.ru/WVd4NVlVQnRZV2xzTG5KMQ/1683.m3u8
-#EXTINF:-1  tvg-id="sky-high-bats-fhd" ,SKY HIGH BATS FHD
-#EXTGRP:SKY HIGH
-https://homtv.ru/WVd4NVlVQnRZV2xzTG5KMQ/1684.m3u8
+http://185.234.59.200:8080/SKY_HIGH_TANOS_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1  tvg-id="sky-high-future-fhd" ,SKY HIGH FUTURE FHD
 #EXTGRP:SKY HIGH
-https://homtv.ru/WVd4NVlVQnRZV2xzTG5KMQ/1686.m3u8
+http://185.234.59.200:8080/SKY_HIGH_FUTURE_FHD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1  tvg-id="sky-high-civil-s-fhd" ,SKY HIGH CIVIL S FHD
 #EXTGRP:SKY HIGH
-https://homtv.ru/WVd4NVlVQnRZV2xzTG5KMQ/1692.m3u8
+http://185.234.59.200:8080/SKY_HIGH_CIVIL_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1  tvg-id="sky-high-archive-fhd" ,SKY HIGH ARCHIVE FHD
 #EXTGRP:SKY HIGH
-https://homtv.ru/WVd4NVlVQnRZV2xzTG5KMQ/1693.m3u8
+http://185.234.59.200:8080/SKY_HIGH_ARCHIVE_FHD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1  tvg-id="sky-high-trace-s-fhd" ,SKY HIGH TRACE S FHD
 #EXTGRP:SKY HIGH
-https://homtv.ru/WVd4NVlVQnRZV2xzTG5KMQ/1694.m3u8
+http://185.234.59.200:8080/SKY_HIGH_TRACE_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1  tvg-id="sky-high-votum-s-fhd" ,SKY HIGH VOTUM S FHD
 #EXTGRP:SKY HIGH
-https://homtv.ru/WVd4NVlVQnRZV2xzTG5KMQ/1696.m3u8
+http://185.234.59.200:8080/SKY_HIGH_VOTUM_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1  tvg-id="sky-high-zippy-s-fhd" ,SKY HIGH ZIPPY S FHD
 #EXTGRP:SKY HIGH
-https://homtv.ru/WVd4NVlVQnRZV2xzTG5KMQ/1699.m3u8
+http://185.234.59.200:8080/SKY_HIGH_ZIPPY_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1  tvg-id="sky-high-heart-s-fhd" ,SKY HIGH HEART S FHD
 #EXTGRP:SKY HIGH
-https://homtv.ru/WVd4NVlVQnRZV2xzTG5KMQ/1700.m3u8
+http://185.234.59.200:8080/SKY_HIGH_HEART_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1  tvg-id="sky-high-joke-fhd" ,SKY HIGH JOKE FHD
 #EXTGRP:SKY HIGH
-https://homtv.ru/WVd4NVlVQnRZV2xzTG5KMQ/1701.m3u8
+http://185.234.59.200:8080/SKY_HIGH_JOKE_FHD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1  tvg-id="sky-high-romix-fhd" ,SKY HIGH ROMIX FHD
 #EXTGRP:SKY HIGH
-https://homtv.ru/WVd4NVlVQnRZV2xzTG5KMQ/1703.m3u8
+http://185.234.59.200:8080/SKY_HIGH_ROMIX_FHD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1  tvg-id="sky-high-red-s-fhd" ,SKY HIGH RED S FHD
 #EXTGRP:SKY HIGH
-https://homtv.ru/WVd4NVlVQnRZV2xzTG5KMQ/1704.m3u8
+http://185.234.59.200:8080/SKY_HIGH_RED_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1  tvg-id="sky-high-dragon-fhd" ,SKY HIGH DRAGON FHD
 #EXTGRP:SKY HIGH
-https://homtv.ru/WVd4NVlVQnRZV2xzTG5KMQ/1707.m3u8
+http://185.234.59.200:8080/SKY_HIGH_DRAGON_FHD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1  tvg-id="sky-high-woonder-fhd" ,SKY HIGH WOONDER FHD
 #EXTGRP:SKY HIGH
-https://homtv.ru/WVd4NVlVQnRZV2xzTG5KMQ/1708.m3u8
+http://185.234.59.200:8080/SKY_HIGH_WOONDER_FHD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1  tvg-id="skyhigh-space-4k-hdr"  tvg-logo="https://iptvx.one/picons/sky-high-space-4k-hdr.png" ,SKY HIGH SPACE 4K HDR
 #EXTGRP:SKY HIGH
-https://homtv.ru/WVd4NVlVQnRZV2xzTG5KMQ/1709.m3u8
+http://185.234.59.200:8080/SKY_HIGH_SPACE_4K_HDR/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1  tvg-id="skyhigh-horror-4k-hdr"  tvg-logo="https://iptvx.one/picons/sky-high-horror-4k-hdr.png" ,SKY HIGH HORROR 4K HDR
 #EXTGRP:SKY HIGH
-https://homtv.ru/WVd4NVlVQnRZV2xzTG5KMQ/1710.m3u8
+http://185.234.59.200:8080/SKY_HIGH_HORROR_4K_HDR/video.m3u8?token=5uGLTS1oibSIu0
 
 
 
@@ -567,6 +561,7 @@ https://fl1001.bozztv.com/ushba55/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sveta" tvg-id="no_epg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0fYMfZzNWBmtndr8f9a9U9fQW6tKK7pBLhg&s", Гимнастика
 
 https://fl1004.bozztv.com/ushba-flocke/tracks-v1a1/mono.m3u8
+
 
 
 
