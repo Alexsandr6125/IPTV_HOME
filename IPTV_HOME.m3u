@@ -62,48 +62,16 @@ https://fl1001.bozztv.com/ushba38/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1  tvg-id="vf-gaidai" ,VF Леонид Гайдай
-#EXTGRP:VF
-http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/17004/index.m3u8
-#EXTINF:-1  tvg-id="vf-ryazanov" ,VF Эльдар Рязанов
-#EXTGRP:VF
-http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/17012/index.m3u8
-#EXTINF:-1  tvg-id="vf-mosfilm" ,VF Мосфильм
-#EXTGRP:VF
-http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/10084/index.m3u8
-#EXTINF:-1  tvg-id="vf-lenfilm" ,VF Ленфильм
-#EXTGRP:VF
-http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/18121/index.m3u8
-#EXTINF:-1  tvg-id="vf-kinostudiagorkogo" ,VF Киностудия им. Горького
-#EXTGRP:VF
-http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/18122/index.m3u8
-#EXTINF:-1  tvg-id="vf-belarusfilm" ,VF Беларусьфильм
-#EXTGRP:VF
-http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/18125/index.m3u8
-#EXTINF:-1  tvg-id="vf-odesskayakinostudia" ,VF Одесская киностудия
-#EXTGRP:VF
-http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/18120/index.m3u8
-#EXTINF:-1  tvg-id="vf-rigakinostudia" ,VF Рижская киностудия
-#EXTGRP:VF
-http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/18123/index.m3u8
-#EXTINF:-1  tvg-id="vf-sverdlovskkinostudia" ,VF Свердловская киностудия
-#EXTGRP:VF
-http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/18124/index.m3u8
-#EXTINF:-1  tvg-id="vf-vysocki" ,VF Владимир Высоцкий
-#EXTGRP:VF
-http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/10066/index.m3u8
+
 #EXTINF:-1  tvg-id="vf-uralskie-pelmeni" ,VF Уральские пельмени
 #EXTGRP:VF
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/18198/index.m3u8
-#EXTINF:-1  tvg-id="vf-western" ,VF Вестерн
-#EXTGRP:VF
-http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/31553/index.m3u8
 #EXTINF:-1  tvg-id="vf-schastlivy-vmeste" ,VF Счастливы Вместе
 #EXTGRP:VF
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/9242/index.m3u8
-#EXTINF:-1  tvg-id="vf-besstyzhye" ,VF Бесстыжие
+#EXTINF:-1  tvg-id="vf-kino4k" ,VF Кино 4K
 #EXTGRP:VF
-http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/10075/index.m3u8
+http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/11114/index.m3u8
 #EXTINF:-1  tvg-id="vf-garipoter" ,VF Гарри Поттер
 #EXTGRP:VF
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/14230/index.m3u8
@@ -137,15 +105,12 @@ http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/10081/index.m3u8
 #EXTINF:-1  tvg-id="vf-voennye"  tvg-logo="https://iptvx.one/picons/vf-voennye.png" ,VF Военные
 #EXTGRP:VF
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/10082/index.m3u8
+#EXTINF:-1  tvg-id="vf-western" ,VF Вестерн
+#EXTGRP:VF
+http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/31553/index.m3u8
 #EXTINF:-1  tvg-id="vf-boevik" ,VF Боевик
 #EXTGRP:VF
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/10087/index.m3u8
-#EXTINF:-1  tvg-id="vf-kino4k" ,VF Кино 4K
-#EXTGRP:VF
-http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/11114/index.m3u8
-#EXTINF:-1  tvg-id="vf-serial4k" ,VF Сериал 4K
-#EXTGRP:VF
-http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/11115/index.m3u8
 #EXTINF:-1  tvg-id="vf-top-series" ,VF TOP Series
 #EXTGRP:VF
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/11116/index.m3u8
@@ -173,15 +138,51 @@ http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/13093/index.m3u8
 #EXTINF:-1  tvg-id="vf-luidefunes" ,VF Луи де Фюнес
 #EXTGRP:VF
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/17000/index.m3u8
-#EXTINF:-1  tvg-id="vf-xfiles" ,VF The X-Files
-#EXTGRP:VF
-http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/17002/index.m3u8
 #EXTINF:-1  tvg-id="vf-dzhekichan" ,VF Джеки Чан
 #EXTGRP:VF
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/17009/index.m3u8
+#EXTINF:-1  tvg-id="vf-serial4k" ,VF Сериал 4K
+#EXTGRP:VF
+http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/11115/index.m3u8
+#EXTINF:-1  tvg-id="vf-xfiles" ,VF The X-Files
+#EXTGRP:VF
+http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/17002/index.m3u8
 #EXTINF:-1  tvg-id="vf-housemd" ,VF Доктор Хаус
 #EXTGRP:VF
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/17016/index.m3u8
+#EXTINF:-1  tvg-id="vf-besstyzhye" ,VF Бесстыжие
+#EXTGRP:VF
+http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/10075/index.m3u8
+#EXTINF:-1  tvg-id="vf-gaidai" ,VF Леонид Гайдай
+#EXTGRP:VF
+http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/17004/index.m3u8
+#EXTINF:-1  tvg-id="vf-ryazanov" ,VF Эльдар Рязанов
+#EXTGRP:VF
+http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/17012/index.m3u8
+#EXTINF:-1  tvg-id="vf-mosfilm" ,VF Мосфильм
+#EXTGRP:VF
+http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/10084/index.m3u8
+#EXTINF:-1  tvg-id="vf-lenfilm" ,VF Ленфильм
+#EXTGRP:VF
+http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/18121/index.m3u8
+#EXTINF:-1  tvg-id="vf-kinostudiagorkogo" ,VF Киностудия им. Горького
+#EXTGRP:VF
+http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/18122/index.m3u8
+#EXTINF:-1  tvg-id="vf-belarusfilm" ,VF Беларусьфильм
+#EXTGRP:VF
+http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/18125/index.m3u8
+#EXTINF:-1  tvg-id="vf-odesskayakinostudia" ,VF Одесская киностудия
+#EXTGRP:VF
+http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/18120/index.m3u8
+#EXTINF:-1  tvg-id="vf-rigakinostudia" ,VF Рижская киностудия
+#EXTGRP:VF
+http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/18123/index.m3u8
+#EXTINF:-1  tvg-id="vf-sverdlovskkinostudia" ,VF Свердловская киностудия
+#EXTGRP:VF
+http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/18124/index.m3u8
+#EXTINF:-1  tvg-id="vf-vysocki" ,VF Владимир Высоцкий
+#EXTGRP:VF
+http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/10066/index.m3u8
 
 
 
@@ -740,5 +741,6 @@ https://s06.watcher.uz/117/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9
 https://fl1001.bozztv.com/ushba55/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sveta" tvg-id="no_epg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0fYMfZzNWBmtndr8f9a9U9fQW6tKK7pBLhg&s", Гимнастика
 https://fl1004.bozztv.com/ushba-flocke/tracks-v1a1/mono.m3u8
+
 
 
