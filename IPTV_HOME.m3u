@@ -187,6 +187,12 @@ http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/10066/index.m3u8
 
 
 
+#EXTINF:-1 group-title="VHS",VHS-ка HD
+http://46.53.208.4:80/live/1123.m3u8
+#EXTINF:-1 group-title="VHS" tvg-id="vf-vhs",VF VHS MIX
+https://homtv.ru/3855888/357166f9/index.m3u8
+#EXTINF:-1 group-title="VHS",VF Ужасы VHS
+https://homtv.ru/3855888/nffb23c/index.m3u8
 #EXTINF:-1  tvg-id="bcu-vhs" ,BCU VHS HD
 #EXTGRP:VHS
 http://tv.woobl.ru/BCU_VHS_HD/video.m3u8?token=5uGLTS1oibSIu0
