@@ -2,7 +2,7 @@
 
 
 
-#EXTINF:-1 group-title="Инфо" tvg-logo="https://img.freepik.com/premium-vector/social-media-icon-cartoon-art_729283-92.jpg?semt=ais_hybrid&w=740",IPTV_HOME 14.03.26
+#EXTINF:-1 group-title="Инфо" tvg-logo="https://img.freepik.com/premium-vector/social-media-icon-cartoon-art_729283-92.jpg?semt=ais_hybrid&w=740",IPTV_HOME 15.03.26
 http://95.66.188.74/VHS/index.m3u8
 
 
@@ -24,6 +24,9 @@ http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_2/variant.m3u8?|User-agent=HlsWinkPlayer
 #EXTINF:-1 tvg-id="tlc" group-title="Развлекательные", TLC HD
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/232/index.m3u8
+#EXTINF:-1  tvg-id="box-game"  tvg-logo="https://iptvx.one/picons/box-game.png" ,BOX Game HD
+#EXTGRP:Развлекательные
+http://tv.woobl.ru/BOX_Game_HD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1 tvg-id="no_epg" group-title="Развлекательные" tvg-logo="https://www.codester.com/static/uploads/items/000/010/10952/preview.jpg", Gameplay
 https://fl1001.bozztv.com/ushba31/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="no_epg" group-title="Развлекательные" tvg-logo="https://cdn.vox-cdn.com/thumbor/cKmWp_uKpELnAmMk4BEIdJShlrk=/0x0:960x540/1600x900/cdn.vox-cdn.com/uploads/chorus_image/image/34106623/gametrailers-logo_960.0.jpg", Gameplay трейлеры
@@ -331,9 +334,6 @@ http://tv.woobl.ru/BOX_Hybrid_HD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1  tvg-id="box-sitcom"  tvg-logo="https://iptvx.one/picons/box-sitcom.png" ,BOX Sitcom HD
 #EXTGRP:BOX
 http://tv.woobl.ru/BOX_Sitcom_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1  tvg-id="box-game"  tvg-logo="https://iptvx.one/picons/box-game.png" ,BOX Game HD
-#EXTGRP:BOX
-http://tv.woobl.ru/BOX_Game_HD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1  tvg-id="box-spy"  tvg-logo="https://iptvx.one/picons/box-spy.png" ,BOX Spy HD
 #EXTGRP:BOX
 http://tv.woobl.ru/BOX_Spy_HD/video.m3u8?token=5uGLTS1oibSIu0
@@ -343,36 +343,7 @@ http://185.234.59.200:8080/BOX_Oscar_HD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1  tvg-id="box-gangster"  tvg-logo="https://iptvx.one/picons/box-gangster.png" ,BOX Gangster HD
 #EXTGRP:BOX
 http://tv.woobl.ru/BOX_Gangster_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1  tvg-id="box-m-serial"  tvg-logo="https://iptvx.one/picons/box-m-serial.png" ,BOX M.Serial HD
-#EXTGRP:BOX
-http://tv.woobl.ru/BOX_MSerial_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1  tvg-id="box-serial"  tvg-logo="https://iptvx.one/picons/box-serial.png" ,BOX Serial HD
-#EXTGRP:BOX
-http://tv.woobl.ru/BOX_Serial_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1  tvg-id="box-travel-premiere"  tvg-logo="https://iptvx.one/picons/box-travel.png" ,BOX Travel Premiere HD
-#EXTGRP:BOX
-http://tv.woobl.ru/BOX_Travel_Premiere_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1  tvg-id="box-travel"  tvg-logo="https://iptvx.one/picons/box-travel.png" ,BOX Travel HD
-#EXTGRP:BOX
-http://tv.woobl.ru/BOX_Travel_Premiere_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1  tvg-id="box-docu"  tvg-logo="https://iptvx.one/picons/box-docu.png" ,BOX Docu. HD
-#EXTGRP:BOX
-http://tv.woobl.ru/BOX_Docu_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1  tvg-id="box-memory"  tvg-logo="https://iptvx.one/picons/box-memory.png" ,BOX Memory HD
-#EXTGRP:BOX
-http://tv.woobl.ru/BOX_Memory_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1  tvg-id="box-auttrend"  tvg-logo="https://iptvx.one/picons/box-auttrend.png" ,BOX AutoTrend HD
-#EXTGRP:BOX
-http://tv.woobl.ru/BOX_Autotrend_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1  tvg-id="box-gurman"  tvg-logo="https://iptvx.one/picons/box-gurman.png" ,BOX Gurman HD
-#EXTGRP:BOX
-http://tv.woobl.ru/BOX_Gurman_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1  tvg-id="box-music-4k"  tvg-logo="https://iptvx.one/picons/box-music-4k.png" ,BOX Music 4K
-#EXTGRP:BOX
-http://185.234.59.200:8080/BOX_Music_4K/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1  tvg-id="box-relax"  tvg-logo="https://iptvx.one/picons/box-relax.png" ,BOX Relax 4K
-#EXTGRP:BOX
-http://tv.woobl.ru/BOX_Relax_4K/video.m3u8?token=5uGLTS1oibSIu0
+
 
 
 
