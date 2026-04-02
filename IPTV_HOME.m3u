@@ -45,7 +45,7 @@ http://158.101.222.193:88/georgia_play.php?id=viasatnat
 #EXTINF:-1 group-title="Познавательные",Viju Explore
 http://158.101.222.193:88/georgia_play.php?id=viasatexp
 #EXTINF:-1 tvg-id="nat-geo-wild" group-title="Познавательные", Nat Geo Wild
-http://188.237.47.212:6005
+https://vod.splay.uz/live_splay/original/Nat_Geo_Wild_HD/mono.m3u8
 #EXTINF:-1 tvg-id="discovery-channel" group-title="Познавательные", Discovery
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/227/index.m3u8
 #EXTINF:-1 tvg-id="glazami-turista" group-title="Познавательные", Глазами туриста
