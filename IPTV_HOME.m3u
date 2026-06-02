@@ -47,7 +47,7 @@ http://158.101.222.193:88/georgia_play.php?id=viasatexp
 #EXTINF:-1 tvg-id="nat-geo-wild" group-title="Познавательные", Nat Geo Wild
 https://stream8.cinerama.uz/1042/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00178.png" group-title="Познавательные", National Geographic Channel HD
-https://iptv.prosto.tv/id178/video.m3u8?secret=xws6dla3&21yo=0
+https://stream8.cinerama.uz/1041/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="discovery-channel" group-title="Познавательные", Discovery
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/227/index.m3u8
 #EXTINF:-1 tvg-id="glazami-turista" group-title="Познавательные", Глазами туриста
