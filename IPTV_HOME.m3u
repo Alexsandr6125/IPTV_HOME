@@ -2,7 +2,7 @@
 
 
 
-#EXTINF:-1 group-title="Инфо" tvg-logo="https://img.freepik.com/premium-vector/social-media-icon-cartoon-art_729283-92.jpg?semt=ais_hybrid&w=740",IPTV_HOME 02.06.26_3
+#EXTINF:-1 group-title="Инфо" tvg-logo="https://img.freepik.com/premium-vector/social-media-icon-cartoon-art_729283-92.jpg?semt=ais_hybrid&w=740",IPTV_HOME 02.06.26
 http://95.66.188.74/VHS/index.m3u8
 
 
@@ -224,73 +224,73 @@ http://tv.woobl.ru/SKY_HIGH_WIZZ_VHS_FHD/video.m3u8?token=5uGLTS1oibSIu0
 
 #EXTINF:-1  tvg-id="bcu-sssr" ,BCU СССР HD
 #EXTGRP:BCU
-http://tv.woobl.ru/BCU_USSR_HD/video.m3u8?token=5uGLTS1oibSIu0
+http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/11026/index.m3u8
 #EXTINF:-1  tvg-id="bcu-premiere" ,BCU Premiere HDR
 #EXTGRP:BCU
-http://tv.woobl.ru/BCU_Premiere_HD/video.m3u8?token=5uGLTS1oibSIu0
+http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/11039/index.m3u8
 #EXTINF:-1  tvg-id="bcu-kinozal-prem-1"  tvg-logo="https://iptvx.one/picons/bcu-kinozal-prem-1.png" ,BCU Premiere 1 HDR
 #EXTGRP:BCU
-http://tv.woobl.ru/BCU_Kinozal_Premiere_1_HD/video.m3u8?token=5uGLTS1oibSIu0
+http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/11015/index.m3u8
 #EXTINF:-1  tvg-id="bcu-kinozal-prem-2" ,BCU Premiere 2 HDR
 #EXTGRP:BCU
-http://tv.woobl.ru/BCU_Kinozal_Premiere_2_HD/video.m3u8?token=5uGLTS1oibSIu0
+http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/11016/index.m3u8
 #EXTINF:-1  tvg-id="bcu-kinozal-prem-3" ,BCU Premiere 3 HDR
 #EXTGRP:BCU
-http://tv.woobl.ru/BCU_Kinozal_Premiere_3_HD/video.m3u8?token=5uGLTS1oibSIu0
+http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/11017/index.m3u8
 #EXTINF:-1  tvg-id="bcu-action" ,BCU Action HDR
 #EXTGRP:BCU
-http://tv.woobl.ru/BCU_Action_HD/video.m3u8?token=5uGLTS1oibSIu0
+http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/11027/index.m3u8
 #EXTINF:-1  tvg-id="bcu-fantastic" ,BCU Fantastic HDR
 #EXTGRP:BCU
-http://tv.woobl.ru/BCU_Fantastic_HD/video.m3u8?token=5uGLTS1oibSIu0
+http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/11032/index.m3u8
 #EXTINF:-1  tvg-id="bcu-comedy"  tvg-logo="https://iptvx.one/picons/bcu-comedy.png" ,BCU Comedy HDR
 #EXTGRP:BCU
-http://tv.woobl.ru/BCU_Comedy_HD/video.m3u8?token=5uGLTS1oibSIu0
+http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/15026/index.m3u8
 #EXTINF:-1  tvg-id="bcu-filmystic"  tvg-logo="https://iptvx.one/picons/bcu-filmystic.png" ,BCU Filmystic HDR
 #EXTGRP:BCU
-http://tv.woobl.ru/BCU_FilMystic_HD/video.m3u8?token=5uGLTS1oibSIu0
+http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/11033/index.m3u8
 #EXTINF:-1  tvg-id="bcu-catastrophe" ,BCU Catastrophe HD
 #EXTGRP:BCU
-http://tv.woobl.ru/BCU_Catastrophe_HD/video.m3u8?token=5uGLTS1oibSIu0
+http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/11028/index.m3u8
 #EXTINF:-1  tvg-id="bcu-cinema" ,BCU Cinema HD
 #EXTGRP:BCU
-http://tv.woobl.ru/BCU_Cinema_HD/video.m3u8?token=5uGLTS1oibSIu0
+http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/11029/index.m3u8
 #EXTINF:-1  tvg-id="bcu-cinemaplus" ,BCU Cinema+ HD
 #EXTGRP:BCU
-http://tv.woobl.ru/BCU_Cinema_Plus_HD/video.m3u8?token=5uGLTS1oibSIu0
+http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/11030/index.m3u8
 #EXTINF:-1  tvg-id="bcu-criminal" ,BCU Criminal HD
 #EXTGRP:BCU
-http://tv.woobl.ru/BCU_Criminal_HD/video.m3u8?token=5uGLTS1oibSIu0
+http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/11048/index.m3u8
 #EXTINF:-1  tvg-id="bcu-history" ,BCU History HD
 #EXTGRP:BCU
-http://tv.woobl.ru/BCU_History_HD/video.m3u8?token=5uGLTS1oibSIu0
+http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/11034/index.m3u8
 #EXTINF:-1  tvg-id="bcu-cosmo"  tvg-logo="https://iptvx.one/picons/bcu-cosmo.png" ,BCU Cosmo HD
 #EXTGRP:BCU
-http://185.234.59.200:9090/channel/n1bd83275/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/17021/index.m3u8
 #EXTINF:-1  tvg-id="bcu-romantic" ,BCU Romantic HD
 #EXTGRP:BCU
-http://tv.woobl.ru/BCU_Romantic_HD/video.m3u8?token=5uGLTS1oibSIu0
+http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/18052/index.m3u8
 #EXTINF:-1  tvg-id="bcu-kinorating" ,BCU Kinorating HD
 #EXTGRP:BCU
-http://tv.woobl.ru/BCU_Kinorating_HD/video.m3u8?token=5uGLTS1oibSIu0
+http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/11037/index.m3u8
 #EXTINF:-1  tvg-id="bcu-stars" ,BCU Stars HD
 #EXTGRP:BCU
-http://tv.woobl.ru/BCU_Stars_HD/video.m3u8?token=5uGLTS1oibSIu0
+http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/11044/index.m3u8
 #EXTINF:-1  tvg-id="bcu-ultra4k" ,BCU Ultra 4K
 #EXTGRP:BCU
-http://tv.woobl.ru/BCU_Ultra_4K/video.m3u8?token=5uGLTS1oibSIu0
+http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/11045/index.m3u8
 #EXTINF:-1  tvg-id="bcu-marvel" ,BCU Marvel HD
 #EXTGRP:BCU
-http://tv.woobl.ru/BCU_Marvel_HD/video.m3u8?token=5uGLTS1oibSIu0
+http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/15025/index.m3u8
 #EXTINF:-1  tvg-id="bcu-survival"  tvg-logo="https://iptvx.one/picons/bcu-survival.png" ,BCU Survival HD
 #EXTGRP:BCU
-http://185.234.59.200:9090/channel/n794d8763/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/17019/index.m3u8
 #EXTINF:-1  tvg-id="bcu-trumotion"  tvg-logo="https://iptvx.one/picons/bcu-trumotion.png" ,BCU TruMotion HD
 #EXTGRP:BCU
-http://185.234.59.200:9090/channel/3dada88d/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/17054/index.m3u8
 #EXTINF:-1  tvg-id="bcu-reality" ,BCU Reality HD
 #EXTGRP:BCU
-http://185.234.59.200:9090/channel/n613379be/index.m3u8?q=406925e0657258d990e0f9948bac4f
+http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/16083/index.m3u8
 
 
 
