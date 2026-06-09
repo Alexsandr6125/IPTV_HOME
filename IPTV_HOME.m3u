@@ -2,7 +2,7 @@
 
 
 
-#EXTINF:-1 group-title="Инфо" tvg-logo="https://img.freepik.com/premium-vector/social-media-icon-cartoon-art_729283-92.jpg?semt=ais_hybrid&w=740",IPTV_HOME 09.06.26_
+#EXTINF:-1 group-title="Инфо" tvg-logo="https://img.freepik.com/premium-vector/social-media-icon-cartoon-art_729283-92.jpg?semt=ais_hybrid&w=740",IPTV_HOME 09.06.26
 http://95.66.188.74/VHS/index.m3u8
 
 
@@ -297,55 +297,58 @@ http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/16083/index.m3u8
 
 #EXTINF:-1  tvg-id="box-remast-4k"  tvg-logo="https://iptvx.one/picons/box-remast-4k.png" ,BOX Remast 4K
 #EXTGRP:BOX
-http://tv.woobl.ru/BOX_Remast_4K/video.m3u8?token=5uGLTS1oibSIu0
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/20158/index.m3u8
 #EXTINF:-1  tvg-id="box-remast-plus-4k"  tvg-logo="https://iptvx.one/picons/box-remast-plus-4k.png" ,BOX Remast+ 4K
 #EXTGRP:BOX
 http://tv.woobl.ru/BOX_Remast_Plus_4K/video.m3u8?token=5uGLTS1oibSIu0
+#EXTINF:-1  tvg-id="box-premiere-plus-4k"  tvg-logo="https://iptvx.one/picons/box-premiere-plus-4khdr.png" ,BOX Premiere 4K HDR
+#EXTGRP:BOX
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/20157/index.m3u8
 #EXTINF:-1  tvg-id="box-premiere-plus-4k"  tvg-logo="https://iptvx.one/picons/box-premiere-plus-4khdr.png" ,BOX Premiere+ 4K HDR
 #EXTGRP:BOX
-http://woobl.ru/op/Y1hkbGNuUjVkV2wxYW1oNWNtVjNkM05tWjBCbmJXRnBiQzVqYjIwPQ/1738.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/83HUZRHVU7LZA2/31549/index.m3u8
 #EXTINF:-1  tvg-id="box-cyber" ,BOX Cyber HD
 #EXTGRP:BOX
-http://tv.woobl.ru/BOX_Cyber_HD/video.m3u8?token=5uGLTS1oibSIu0
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/83HUZRHVU7LZA2/19421/index.m3u8
 #EXTINF:-1  tvg-id="box-western" ,BOX Western HD
 #EXTGRP:BOX
-http://tv.woobl.ru/BOX_Western_HD/video.m3u8?token=5uGLTS1oibSIu0
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/19419/index.m3u8
 #EXTINF:-1  tvg-id="box-zombie" ,BOX Zombie HD
 #EXTGRP:BOX
-http://tv.woobl.ru/BOX_Zombie_HD/video.m3u8?token=5uGLTS1oibSIu0
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/19420/index.m3u8
 #EXTINF:-1  tvg-id="box-ghost" ,BOX Ghost HD
 #EXTGRP:BOX
-http://tv.woobl.ru/BOX_Ghost_HD/video.m3u8?token=5uGLTS1oibSIu0
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/20154/index.m3u8
 #EXTINF:-1  tvg-id="box-stories" ,BOX Stories HD
 #EXTGRP:BOX
-http://tv.woobl.ru/BOX_Stories_HD/video.m3u8?token=5uGLTS1oibSIu0
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ESMHU7B3S7N5NW/20155/index.m3u8
 #EXTINF:-1  tvg-id="box-fantasy" ,BOX Fantasy HD
 #EXTGRP:BOX
-http://tv.woobl.ru/BOX_Fantasy_HD/video.m3u8?token=5uGLTS1oibSIu0
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ESMHU7B3S7N5NW/20156/index.m3u8
 #EXTINF:-1  tvg-id="box-serial" ,BOX Serial 4K
 #EXTGRP:BOX
-http://tv.woobl.ru/BOX_Serial_4K/video.m3u8?token=5uGLTS1oibSIu0
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/83HUZRHVU7LZA2/31657/index.m3u8
 #EXTINF:-1  tvg-id="box-apocalipse"  tvg-logo="https://iptvx.one/picons/box-apocalipse.png" ,BOX Apocalypse HD
 #EXTGRP:BOX
-http://tv.woobl.ru/BOX_Apocalypse_HD/video.m3u8?token=5uGLTS1oibSIu0
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/83HUZRHVU7LZA2/31655/index.m3u8
 #EXTINF:-1  tvg-id="box-franchise"  tvg-logo="https://iptvx.one/picons/box-franchise.png" ,BOX Franchise HD
 #EXTGRP:BOX
-http://tv.woobl.ru/BOX_Franchise_HD/video.m3u8?token=5uGLTS1oibSIu0
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MLLNWFWVC3H9YNUQTDBDHZGK/19274/index.m3u8
 #EXTINF:-1  tvg-id="box-hybrid"  tvg-logo="https://iptvx.one/picons/box-hybrid.png" ,BOX Hybrid HD
 #EXTGRP:BOX
-http://tv.woobl.ru/BOX_Hybrid_HD/video.m3u8?token=5uGLTS1oibSIu0
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/19275/index.m3u8
 #EXTINF:-1  tvg-id="box-sitcom"  tvg-logo="https://iptvx.one/picons/box-sitcom.png" ,BOX Sitcom HD
 #EXTGRP:BOX
 http://tv.woobl.ru/BOX_Sitcom_HD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1  tvg-id="box-spy"  tvg-logo="https://iptvx.one/picons/box-spy.png" ,BOX Spy HD
 #EXTGRP:BOX
-http://tv.woobl.ru/BOX_Spy_HD/video.m3u8?token=5uGLTS1oibSIu0
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/19285/index.m3u8
 #EXTINF:-1  tvg-id="box-oscar"  tvg-logo="https://iptvx.one/picons/box-oscar.png" ,BOX Oscar HD
 #EXTGRP:BOX
-http://185.234.59.200:8080/BOX_Oscar_HD/video.m3u8?token=5uGLTS1oibSIu0
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/19278/index.m3u8
 #EXTINF:-1  tvg-id="box-gangster"  tvg-logo="https://iptvx.one/picons/box-gangster.png" ,BOX Gangster HD
 #EXTGRP:BOX
-http://tv.woobl.ru/BOX_Gangster_HD/video.m3u8?token=5uGLTS1oibSIu0
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/19277/index.m3u8
 
 
 
