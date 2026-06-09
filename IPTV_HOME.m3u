@@ -49,7 +49,7 @@ http://158.101.222.193:88/georgia_play.php?id=viasatnat
 http://158.101.222.193:88/georgia_play.php?id=viasatexp
 #EXTINF:-1 tvg-id="nat-geo-wild" group-title="Познавательные", Nat Geo Wild
 https://stream8.cinerama.uz/1042/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-id="national-geographic" ,National Geographic
+#EXTINF:-1 tvg-id="national-geographic" ,National Geographic
 #EXTGRP:Познавательные
 https://stream8.cinerama.uz/1041/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="discovery-channel" group-title="Познавательные", Discovery
