@@ -2,7 +2,7 @@
 
 
 
-#EXTINF:-1 group-title="Инфо" tvg-logo="https://img.freepik.com/premium-vector/social-media-icon-cartoon-art_729283-92.jpg?semt=ais_hybrid&w=740",IPTV_HOME 09.06.26
+#EXTINF:-1 group-title="Инфо" tvg-logo="https://img.freepik.com/premium-vector/social-media-icon-cartoon-art_729283-92.jpg?semt=ais_hybrid&w=740",IPTV_HOME 10.06.26
 http://95.66.188.74/VHS/index.m3u8
 
 
@@ -300,7 +300,7 @@ http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/16083/index.m3u8
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/20158/index.m3u8
 #EXTINF:-1  tvg-id="box-remast-plus-4k"  tvg-logo="https://iptvx.one/picons/box-remast-plus-4k.png" ,BOX Remast+ 4K
 #EXTGRP:BOX
-http://tv.woobl.ru/BOX_Remast_Plus_4K/video.m3u8?token=5uGLTS1oibSIu0
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/20158/index.m3u8
 #EXTINF:-1  tvg-id="box-premiere-plus-4k"  tvg-logo="https://iptvx.one/picons/box-premiere-plus-4khdr.png" ,BOX Premiere 4K HDR
 #EXTGRP:BOX
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/20157/index.m3u8
@@ -333,13 +333,13 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/83HUZRHVU7LZA2/31657/ind
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/83HUZRHVU7LZA2/31655/index.m3u8
 #EXTINF:-1  tvg-id="box-franchise"  tvg-logo="https://iptvx.one/picons/box-franchise.png" ,BOX Franchise HD
 #EXTGRP:BOX
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MLLNWFWVC3H9YNUQTDBDHZGK/19274/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ESMHU7B3S7N5NW/19274/index.m3u8
 #EXTINF:-1  tvg-id="box-hybrid"  tvg-logo="https://iptvx.one/picons/box-hybrid.png" ,BOX Hybrid HD
 #EXTGRP:BOX
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/19275/index.m3u8
-#EXTINF:-1  tvg-id="box-sitcom"  tvg-logo="https://iptvx.one/picons/box-sitcom.png" ,BOX Sitcom HD
+#EXTINF:-1  tvg-id="box-mayday"  tvg-logo="http://epg.one/img/7493.png" ,Box Mayday HD
 #EXTGRP:BOX
-http://tv.woobl.ru/BOX_Sitcom_HD/video.m3u8?token=5uGLTS1oibSIu0
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ESMHU7B3S7N5NW/20159/index.m3u8
 #EXTINF:-1  tvg-id="box-spy"  tvg-logo="https://iptvx.one/picons/box-spy.png" ,BOX Spy HD
 #EXTGRP:BOX
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/19285/index.m3u8
