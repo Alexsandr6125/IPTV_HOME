@@ -2,7 +2,7 @@
 
 
 
-#EXTINF:-1 group-title="Инфо" tvg-logo="https://img.freepik.com/premium-vector/social-media-icon-cartoon-art_729283-92.jpg?semt=ais_hybrid&w=740",IPTV_HOME 12.06.26
+#EXTINF:-1 group-title="Инфо" tvg-logo="https://img.freepik.com/premium-vector/social-media-icon-cartoon-art_729283-92.jpg?semt=ais_hybrid&w=740",IPTV_HOME 12.06.26_
 http://95.66.188.74/VHS/index.m3u8
 
 
@@ -69,124 +69,124 @@ http://162.212.179.43/ushba38/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1  tvg-id="vf-uralskie-pelmeni" ,VF Уральские пельмени
+#EXTINF:-1 tvg-id="vf-uralskie-pelmeni" ,VF Уральские пельмени
 #EXTGRP:VF
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/18198/index.m3u8
-#EXTINF:-1  tvg-id="vf-schastlivy-vmeste" ,VF Счастливы Вместе
+#EXTINF:-1 tvg-id="vf-schastlivy-vmeste" ,VF Счастливы Вместе
 #EXTGRP:VF
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/9242/index.m3u8
-#EXTINF:-1  tvg-id="vf-kino4k" ,VF Кино 4K
+#EXTINF:-1 tvg-id="vf-kino4k" ,VF Кино 4K
 #EXTGRP:VF
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/11114/index.m3u8
-#EXTINF:-1  tvg-id="vf-garipoter" ,VF Гарри Поттер
+#EXTINF:-1 tvg-id="vf-garipoter" ,VF Гарри Поттер
 #EXTGRP:VF
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/14230/index.m3u8
-#EXTINF:-1  tvg-id="vf-disney-movie" ,VF Disney Movie
+#EXTINF:-1 tvg-id="vf-disney-movie" ,VF Disney Movie
 #EXTGRP:VF
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/15010/index.m3u8
-#EXTINF:-1  tvg-id="vf-adventure" ,VF Adventure
+#EXTINF:-1 tvg-id="vf-adventure" ,VF Adventure
 #EXTGRP:VF
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/10000/index.m3u8
-#EXTINF:-1  tvg-id="vf-fantasy" ,VF Fantasy
+#EXTINF:-1 tvg-id="vf-fantasy" ,VF Fantasy
 #EXTGRP:VF
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/10005/index.m3u8
-#EXTINF:-1  tvg-id="vf-mystic" ,VF Mystic
+#EXTINF:-1 tvg-id="vf-mystic" ,VF Mystic
 #EXTGRP:VF
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/10007/index.m3u8
-#EXTINF:-1  tvg-id="vf-uzhasy" ,VF Ужасы
+#EXTINF:-1 tvg-id="vf-uzhasy" ,VF Ужасы
 #EXTGRP:VF
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/10008/index.m3u8
-#EXTINF:-1  tvg-id="vf-premiere" ,VF Premiere
+#EXTINF:-1 tvg-id="vf-premiere" ,VF Premiere
 #EXTGRP:VF
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/10052/index.m3u8
-#EXTINF:-1  tvg-id="vf-komedia" ,VF Комедия
+#EXTINF:-1 tvg-id="vf-komedia" ,VF Комедия
 #EXTGRP:VF
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/10055/index.m3u8
-#EXTINF:-1  tvg-id="vf-katastrofy" ,VF Катастрофы
+#EXTINF:-1 tvg-id="vf-katastrofy" ,VF Катастрофы
 #EXTGRP:VF
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/10080/index.m3u8
-#EXTINF:-1  tvg-id="vf-marvel" ,VF Marvel
+#EXTINF:-1 tvg-id="vf-marvel" ,VF Marvel
 #EXTGRP:VF
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/10081/index.m3u8
-#EXTINF:-1  tvg-id="vf-voennye"  tvg-logo="https://iptvx.one/picons/vf-voennye.png" ,VF Военные
+#EXTINF:-1 tvg-id="vf-voennye"  tvg-logo="https://iptvx.one/picons/vf-voennye.png" ,VF Военные
 #EXTGRP:VF
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/10082/index.m3u8
-#EXTINF:-1  tvg-id="vf-western" ,VF Вестерн
+#EXTINF:-1 tvg-id="vf-western" ,VF Вестерн
 #EXTGRP:VF
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/31553/index.m3u8
-#EXTINF:-1  tvg-id="vf-boevik" ,VF Боевик
+#EXTINF:-1 tvg-id="vf-boevik" ,VF Боевик
 #EXTGRP:VF
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/10087/index.m3u8
-#EXTINF:-1  tvg-id="vf-top-series" ,VF TOP Series
+#EXTINF:-1 tvg-id="vf-top-series" ,VF TOP Series
 #EXTGRP:VF
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/11116/index.m3u8
-#EXTINF:-1  tvg-id="vf-arthouse" ,VF Art house
+#EXTINF:-1 tvg-id="vf-arthouse" ,VF Art house
 #EXTGRP:VF
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/11119/index.m3u8
-#EXTINF:-1  tvg-id="vf-detective" ,VF Detective
+#EXTINF:-1 tvg-id="vf-detective" ,VF Detective
 #EXTGRP:VF
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/11120/index.m3u8
-#EXTINF:-1  tvg-id="vf-fantastic" ,VF Fantastic
+#EXTINF:-1 tvg-id="vf-fantastic" ,VF Fantastic
 #EXTGRP:VF
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/11121/index.m3u8
-#EXTINF:-1  tvg-id="vf-oskar" ,VF Оскар
+#EXTINF:-1 tvg-id="vf-oskar" ,VF Оскар
 #EXTGRP:VF
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/11122/index.m3u8
-#EXTINF:-1  tvg-id="vf-series" ,VF Series
+#EXTINF:-1 tvg-id="vf-series" ,VF Series
 #EXTGRP:VF
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/13085/index.m3u8
-#EXTINF:-1  tvg-id="vf-thrilr" ,VF Thriller
+#EXTINF:-1 tvg-id="vf-thrilr" ,VF Thriller
 #EXTGRP:VF
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/13089/index.m3u8
-#EXTINF:-1  tvg-id="vf-kriminal" ,VF Криминал
+#EXTINF:-1 tvg-id="vf-kriminal" ,VF Криминал
 #EXTGRP:VF
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/13093/index.m3u8
-#EXTINF:-1  tvg-id="vf-luidefunes" ,VF Луи де Фюнес
+#EXTINF:-1 tvg-id="vf-luidefunes" ,VF Луи де Фюнес
 #EXTGRP:VF
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/17000/index.m3u8
-#EXTINF:-1  tvg-id="vf-dzhekichan" ,VF Джеки Чан
+#EXTINF:-1 tvg-id="vf-dzhekichan" ,VF Джеки Чан
 #EXTGRP:VF
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/17009/index.m3u8
-#EXTINF:-1  tvg-id="vf-serial4k" ,VF Сериал 4K
+#EXTINF:-1 tvg-id="vf-serial4k" ,VF Сериал 4K
 #EXTGRP:VF
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/11115/index.m3u8
-#EXTINF:-1  tvg-id="vf-xfiles" ,VF The X-Files
+#EXTINF:-1 tvg-id="vf-xfiles" ,VF The X-Files
 #EXTGRP:VF
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/17002/index.m3u8
-#EXTINF:-1  tvg-id="vf-housemd" ,VF Доктор Хаус
+#EXTINF:-1 tvg-id="vf-housemd" ,VF Доктор Хаус
 #EXTGRP:VF
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/17016/index.m3u8
-#EXTINF:-1  tvg-id="vf-besstyzhye" ,VF Бесстыжие
+#EXTINF:-1 tvg-id="vf-besstyzhye" ,VF Бесстыжие
 #EXTGRP:VF
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/10075/index.m3u8
-#EXTINF:-1  tvg-id="vf-gaidai" ,VF Леонид Гайдай
+#EXTINF:-1 tvg-id="vf-gaidai" ,VF Леонид Гайдай
 #EXTGRP:VF
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/17004/index.m3u8
-#EXTINF:-1  tvg-id="vf-ryazanov" ,VF Эльдар Рязанов
+#EXTINF:-1 tvg-id="vf-ryazanov" ,VF Эльдар Рязанов
 #EXTGRP:VF
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/17012/index.m3u8
-#EXTINF:-1  tvg-id="vf-mosfilm" ,VF Мосфильм
+#EXTINF:-1 tvg-id="vf-mosfilm" ,VF Мосфильм
 #EXTGRP:VF
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/10084/index.m3u8
-#EXTINF:-1  tvg-id="vf-lenfilm" ,VF Ленфильм
+#EXTINF:-1 tvg-id="vf-lenfilm" ,VF Ленфильм
 #EXTGRP:VF
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/18121/index.m3u8
-#EXTINF:-1  tvg-id="vf-kinostudiagorkogo" ,VF Киностудия им. Горького
+#EXTINF:-1 tvg-id="vf-kinostudiagorkogo" ,VF Киностудия им. Горького
 #EXTGRP:VF
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/18122/index.m3u8
-#EXTINF:-1  tvg-id="vf-belarusfilm" ,VF Беларусьфильм
+#EXTINF:-1 tvg-id="vf-belarusfilm" ,VF Беларусьфильм
 #EXTGRP:VF
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/18125/index.m3u8
-#EXTINF:-1  tvg-id="vf-odesskayakinostudia" ,VF Одесская киностудия
+#EXTINF:-1 tvg-id="vf-odesskayakinostudia" ,VF Одесская киностудия
 #EXTGRP:VF
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/18120/index.m3u8
-#EXTINF:-1  tvg-id="vf-rigakinostudia" ,VF Рижская киностудия
+#EXTINF:-1 tvg-id="vf-rigakinostudia" ,VF Рижская киностудия
 #EXTGRP:VF
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/18123/index.m3u8
-#EXTINF:-1  tvg-id="vf-sverdlovskkinostudia" ,VF Свердловская киностудия
+#EXTINF:-1 tvg-id="vf-sverdlovskkinostudia" ,VF Свердловская киностудия
 #EXTGRP:VF
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/18124/index.m3u8
-#EXTINF:-1  tvg-id="vf-vysocki" ,VF Владимир Высоцкий
+#EXTINF:-1 tvg-id="vf-vysocki" ,VF Владимир Высоцкий
 #EXTGRP:VF
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/10066/index.m3u8
 
@@ -199,230 +199,230 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/83HUZRHVU7LZA2/5006/inde
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/10009/index.m3u8
 #EXTINF:-1 group-title="VHS",VF Ужасы VHS
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/10008/index.m3u8
-#EXTINF:-1  tvg-id="bcu-vhs" ,BCU VHS HD
+#EXTINF:-1 tvg-id="bcu-vhs" ,BCU VHS HD
 #EXTGRP:VHS
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/11042/index.m3u8
-#EXTINF:-1  tvg-id="sky-high-fear-vhs-fhd" ,SKY HIGH FEAR VHS FHD
+#EXTINF:-1 tvg-id="sky-high-fear-vhs-fhd" ,SKY HIGH FEAR VHS FHD
 #EXTGRP:VHS
 http://tv.woobl.ru/SKY_HIGH_FEAR_VHS_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1  tvg-id="sky-high-strike-vhs-fhd" ,SKY HIGH STRIKE VHS FHD
+#EXTINF:-1 tvg-id="sky-high-strike-vhs-fhd" ,SKY HIGH STRIKE VHS FHD
 #EXTGRP:VHS
 http://tv.woobl.ru/SKY_HIGH_STRIKE_VHS_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1  tvg-id="sky-high-neonvhs-fhd" ,SKY HIGH NEON VHS FHD
+#EXTINF:-1 tvg-id="sky-high-neonvhs-fhd" ,SKY HIGH NEON VHS FHD
 #EXTGRP:VHS
 http://tv.woobl.ru/SKY_HIGH_NEON_VHS_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1  tvg-id="sky-high-case-vhs-fhd" ,SKY HIGH CASE VHS FHD
+#EXTINF:-1 tvg-id="sky-high-case-vhs-fhd" ,SKY HIGH CASE VHS FHD
 #EXTGRP:VHS
 http://tv.woobl.ru/SKY_HIGH_CASE_VHS_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1  tvg-id="sky-high-medy-vhs-fhd" ,SKY HIGH MEDY VHS FHD
+#EXTINF:-1 tvg-id="sky-high-medy-vhs-fhd" ,SKY HIGH MEDY VHS FHD
 #EXTGRP:VHS
 http://tv.woobl.ru/SKY_HIGH_MEDY_VHS_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1  tvg-id="sky-high-wizz-vhs-fhd" ,SKY HIGH WIZZ VHS FHD
+#EXTINF:-1 tvg-id="sky-high-wizz-vhs-fhd" ,SKY HIGH WIZZ VHS FHD
 #EXTGRP:VHS
 http://tv.woobl.ru/SKY_HIGH_WIZZ_VHS_FHD/video.m3u8?token=5uGLTS1oibSIu0
 
 
 
-#EXTINF:-1  tvg-id="bcu-sssr" ,BCU СССР HD
+#EXTINF:-1 tvg-id="bcu-sssr" ,BCU СССР HD
 #EXTGRP:BCU
 http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/11026/index.m3u8
-#EXTINF:-1  tvg-id="bcu-premiere" ,BCU Premiere HDR
+#EXTINF:-1 tvg-id="bcu-premiere" ,BCU Premiere HDR
 #EXTGRP:BCU
 http://1f14fe4b.rossteleccom.net/iptv/96FNZHEUB9GK66/11039/index.m3u8
-#EXTINF:-1  tvg-id="bcu-kinozal-prem-1"  tvg-logo="https://iptvx.one/picons/bcu-kinozal-prem-1.png" ,BCU Premiere 1 HDR
+#EXTINF:-1 tvg-id="bcu-kinozal-prem-1"  tvg-logo="https://iptvx.one/picons/bcu-kinozal-prem-1.png" ,BCU Premiere 1 HDR
 #EXTGRP:BCU
 http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/11015/index.m3u8
-#EXTINF:-1  tvg-id="bcu-kinozal-prem-2" ,BCU Premiere 2 HDR
+#EXTINF:-1 tvg-id="bcu-kinozal-prem-2" ,BCU Premiere 2 HDR
 #EXTGRP:BCU
 http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/11016/index.m3u8
-#EXTINF:-1  tvg-id="bcu-kinozal-prem-3" ,BCU Premiere 3 HDR
+#EXTINF:-1 tvg-id="bcu-kinozal-prem-3" ,BCU Premiere 3 HDR
 #EXTGRP:BCU
 http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/11017/index.m3u8
-#EXTINF:-1  tvg-id="bcu-action" ,BCU Action HDR
+#EXTINF:-1 tvg-id="bcu-action" ,BCU Action HDR
 #EXTGRP:BCU
 http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/11027/index.m3u8
-#EXTINF:-1  tvg-id="bcu-fantastic" ,BCU Fantastic HDR
+#EXTINF:-1 tvg-id="bcu-fantastic" ,BCU Fantastic HDR
 #EXTGRP:BCU
 http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/11032/index.m3u8
-#EXTINF:-1  tvg-id="bcu-comedy"  tvg-logo="https://iptvx.one/picons/bcu-comedy.png" ,BCU Comedy HDR
+#EXTINF:-1 tvg-id="bcu-comedy"  tvg-logo="https://iptvx.one/picons/bcu-comedy.png" ,BCU Comedy HDR
 #EXTGRP:BCU
 http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/15026/index.m3u8
-#EXTINF:-1  tvg-id="bcu-filmystic"  tvg-logo="https://iptvx.one/picons/bcu-filmystic.png" ,BCU Filmystic HDR
+#EXTINF:-1 tvg-id="bcu-filmystic"  tvg-logo="https://iptvx.one/picons/bcu-filmystic.png" ,BCU Filmystic HDR
 #EXTGRP:BCU
 http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/11033/index.m3u8
-#EXTINF:-1  tvg-id="bcu-catastrophe" ,BCU Catastrophe HD
+#EXTINF:-1 tvg-id="bcu-catastrophe" ,BCU Catastrophe HD
 #EXTGRP:BCU
 http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/11028/index.m3u8
-#EXTINF:-1  tvg-id="bcu-cinema" ,BCU Cinema HD
+#EXTINF:-1 tvg-id="bcu-cinema" ,BCU Cinema HD
 #EXTGRP:BCU
 http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/11029/index.m3u8
-#EXTINF:-1  tvg-id="bcu-cinemaplus" ,BCU Cinema+ HD
+#EXTINF:-1 tvg-id="bcu-cinemaplus" ,BCU Cinema+ HD
 #EXTGRP:BCU
 http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/11030/index.m3u8
-#EXTINF:-1  tvg-id="bcu-criminal" ,BCU Criminal HD
+#EXTINF:-1 tvg-id="bcu-criminal" ,BCU Criminal HD
 #EXTGRP:BCU
 http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/11048/index.m3u8
-#EXTINF:-1  tvg-id="bcu-history" ,BCU History HD
+#EXTINF:-1 tvg-id="bcu-history" ,BCU History HD
 #EXTGRP:BCU
 http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/11034/index.m3u8
-#EXTINF:-1  tvg-id="bcu-cosmo"  tvg-logo="https://iptvx.one/picons/bcu-cosmo.png" ,BCU Cosmo HD
+#EXTINF:-1 tvg-id="bcu-cosmo"  tvg-logo="https://iptvx.one/picons/bcu-cosmo.png" ,BCU Cosmo HD
 #EXTGRP:BCU
 http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/17021/index.m3u8
-#EXTINF:-1  tvg-id="bcu-romantic" ,BCU Romantic HD
+#EXTINF:-1 tvg-id="bcu-romantic" ,BCU Romantic HD
 #EXTGRP:BCU
 http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/18052/index.m3u8
-#EXTINF:-1  tvg-id="bcu-kinorating" ,BCU Kinorating HD
+#EXTINF:-1 tvg-id="bcu-kinorating" ,BCU Kinorating HD
 #EXTGRP:BCU
 http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/11037/index.m3u8
-#EXTINF:-1  tvg-id="bcu-stars" ,BCU Stars HD
+#EXTINF:-1 tvg-id="bcu-stars" ,BCU Stars HD
 #EXTGRP:BCU
 http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/11044/index.m3u8
-#EXTINF:-1  tvg-id="bcu-ultra4k" ,BCU Ultra 4K
+#EXTINF:-1 tvg-id="bcu-ultra4k" ,BCU Ultra 4K
 #EXTGRP:BCU
 http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/11045/index.m3u8
-#EXTINF:-1  tvg-id="bcu-marvel" ,BCU Marvel HD
+#EXTINF:-1 tvg-id="bcu-marvel" ,BCU Marvel HD
 #EXTGRP:BCU
 http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/15025/index.m3u8
-#EXTINF:-1  tvg-id="bcu-survival"  tvg-logo="https://iptvx.one/picons/bcu-survival.png" ,BCU Survival HD
+#EXTINF:-1 tvg-id="bcu-survival"  tvg-logo="https://iptvx.one/picons/bcu-survival.png" ,BCU Survival HD
 #EXTGRP:BCU
 http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/17019/index.m3u8
-#EXTINF:-1  tvg-id="bcu-trumotion"  tvg-logo="https://iptvx.one/picons/bcu-trumotion.png" ,BCU TruMotion HD
+#EXTINF:-1 tvg-id="bcu-trumotion"  tvg-logo="https://iptvx.one/picons/bcu-trumotion.png" ,BCU TruMotion HD
 #EXTGRP:BCU
 http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/17054/index.m3u8
-#EXTINF:-1  tvg-id="bcu-reality" ,BCU Reality HD
+#EXTINF:-1 tvg-id="bcu-reality" ,BCU Reality HD
 #EXTGRP:BCU
 http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/16083/index.m3u8
 
 
 
-#EXTINF:-1  tvg-id="box-remast-4k"  tvg-logo="https://iptvx.one/picons/box-remast-4k.png" ,BOX Remast 4K
+#EXTINF:-1 tvg-id="box-remast-4k"  tvg-logo="https://iptvx.one/picons/box-remast-4k.png" ,BOX Remast 4K
 #EXTGRP:BOX
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/20158/index.m3u8
-#EXTINF:-1  tvg-id="box-remast-plus-4k"  tvg-logo="https://iptvx.one/picons/box-remast-plus-4k.png" ,BOX Remast+ 4K
+#EXTINF:-1 tvg-id="box-remast-plus-4k"  tvg-logo="https://iptvx.one/picons/box-remast-plus-4k.png" ,BOX Remast+ 4K
 #EXTGRP:BOX
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/20158/index.m3u8
-#EXTINF:-1  tvg-id="box-premiere-plus-4k"  tvg-logo="https://iptvx.one/picons/box-premiere-plus-4khdr.png" ,BOX Premiere 4K HDR
+#EXTINF:-1 tvg-id="box-premiere-plus-4k"  tvg-logo="https://iptvx.one/picons/box-premiere-plus-4khdr.png" ,BOX Premiere 4K HDR
 #EXTGRP:BOX
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/20157/index.m3u8
-#EXTINF:-1  tvg-id="box-premiere-plus-4k"  tvg-logo="https://iptvx.one/picons/box-premiere-plus-4khdr.png" ,BOX Premiere+ 4K HDR
+#EXTINF:-1 tvg-id="box-premiere-plus-4k"  tvg-logo="https://iptvx.one/picons/box-premiere-plus-4khdr.png" ,BOX Premiere+ 4K HDR
 #EXTGRP:BOX
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/83HUZRHVU7LZA2/31549/index.m3u8
-#EXTINF:-1  tvg-id="box-cyber" ,BOX Cyber HD
+#EXTINF:-1 tvg-id="box-cyber" ,BOX Cyber HD
 #EXTGRP:BOX
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/83HUZRHVU7LZA2/19421/index.m3u8
-#EXTINF:-1  tvg-id="box-western" ,BOX Western HD
+#EXTINF:-1 tvg-id="box-western" ,BOX Western HD
 #EXTGRP:BOX
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/19419/index.m3u8
-#EXTINF:-1  tvg-id="box-zombie" ,BOX Zombie HD
+#EXTINF:-1 tvg-id="box-zombie" ,BOX Zombie HD
 #EXTGRP:BOX
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/19420/index.m3u8
-#EXTINF:-1  tvg-id="box-ghost" ,BOX Ghost HD
+#EXTINF:-1 tvg-id="box-ghost" ,BOX Ghost HD
 #EXTGRP:BOX
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/20154/index.m3u8
-#EXTINF:-1  tvg-id="box-stories" ,BOX Stories HD
+#EXTINF:-1 tvg-id="box-stories" ,BOX Stories HD
 #EXTGRP:BOX
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ESMHU7B3S7N5NW/20155/index.m3u8
-#EXTINF:-1  tvg-id="box-fantasy" ,BOX Fantasy HD
+#EXTINF:-1 tvg-id="box-fantasy" ,BOX Fantasy HD
 #EXTGRP:BOX
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ESMHU7B3S7N5NW/20156/index.m3u8
-#EXTINF:-1  tvg-id="box-serial" ,BOX Serial 4K
+#EXTINF:-1 tvg-id="box-serial" ,BOX Serial 4K
 #EXTGRP:BOX
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/83HUZRHVU7LZA2/31657/index.m3u8
-#EXTINF:-1  tvg-id="box-apocalipse"  tvg-logo="https://iptvx.one/picons/box-apocalipse.png" ,BOX Apocalypse HD
+#EXTINF:-1 tvg-id="box-apocalipse"  tvg-logo="https://iptvx.one/picons/box-apocalipse.png" ,BOX Apocalypse HD
 #EXTGRP:BOX
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/83HUZRHVU7LZA2/31655/index.m3u8
-#EXTINF:-1  tvg-id="box-franchise"  tvg-logo="https://iptvx.one/picons/box-franchise.png" ,BOX Franchise HD
+#EXTINF:-1 tvg-id="box-franchise"  tvg-logo="https://iptvx.one/picons/box-franchise.png" ,BOX Franchise HD
 #EXTGRP:BOX
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ESMHU7B3S7N5NW/19274/index.m3u8
-#EXTINF:-1  tvg-id="box-hybrid"  tvg-logo="https://iptvx.one/picons/box-hybrid.png" ,BOX Hybrid HD
+#EXTINF:-1 tvg-id="box-hybrid"  tvg-logo="https://iptvx.one/picons/box-hybrid.png" ,BOX Hybrid HD
 #EXTGRP:BOX
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/19275/index.m3u8
-#EXTINF:-1  tvg-id="box-mayday"  tvg-logo="http://epg.one/img/7493.png" ,Box Mayday HD
+#EXTINF:-1 tvg-id="box-mayday"  tvg-logo="http://epg.one/img/7493.png" ,Box Mayday HD
 #EXTGRP:BOX
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ESMHU7B3S7N5NW/20159/index.m3u8
-#EXTINF:-1  tvg-id="box-spy"  tvg-logo="https://iptvx.one/picons/box-spy.png" ,BOX Spy HD
+#EXTINF:-1 tvg-id="box-spy"  tvg-logo="https://iptvx.one/picons/box-spy.png" ,BOX Spy HD
 #EXTGRP:BOX
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/19285/index.m3u8
-#EXTINF:-1  tvg-id="box-oscar"  tvg-logo="https://iptvx.one/picons/box-oscar.png" ,BOX Oscar HD
+#EXTINF:-1 tvg-id="box-oscar"  tvg-logo="https://iptvx.one/picons/box-oscar.png" ,BOX Oscar HD
 #EXTGRP:BOX
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/19278/index.m3u8
-#EXTINF:-1  tvg-id="box-gangster"  tvg-logo="https://iptvx.one/picons/box-gangster.png" ,BOX Gangster HD
+#EXTINF:-1 tvg-id="box-gangster"  tvg-logo="https://iptvx.one/picons/box-gangster.png" ,BOX Gangster HD
 #EXTGRP:BOX
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/19277/index.m3u8
 
 
 
 
-#EXTINF:-1  tvg-id="sky-high-bunny-hd"  tvg-logo="https://iptvx.one/picons/sky-high-bunny-hd.png" ,SKY HIGH BUNNY HD
+#EXTINF:-1 tvg-id="sky-high-bunny-hd"  tvg-logo="https://iptvx.one/picons/sky-high-bunny-hd.png" ,SKY HIGH BUNNY HD
 #EXTGRP:SKY HIGH
 http://tv.woobl.ru/BUNNYHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1  tvg-id="sky-high-teen-fhd" ,SKY HIGH TEEN FHD
+#EXTINF:-1 tvg-id="sky-high-teen-fhd" ,SKY HIGH TEEN FHD
 #EXTGRP:SKY HIGH
 http://tv.woobl.ru/SKY_HIGH_TEEN_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1  tvg-id="sky-high-boom-fhd" ,SKY HIGH BOOM FHD
+#EXTINF:-1 tvg-id="sky-high-boom-fhd" ,SKY HIGH BOOM FHD
 #EXTGRP:SKY HIGH
 http://tv.woobl.ru/SKY_HIGH_BOOM_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1  tvg-id="sky-high-beyond-s-fhd"  tvg-logo="https://iptvx.one/picons/sky-high-beyond-s-fhd.png" ,SKY HIGH BEYOND S FHD
+#EXTINF:-1 tvg-id="sky-high-beyond-s-fhd"  tvg-logo="https://iptvx.one/picons/sky-high-beyond-s-fhd.png" ,SKY HIGH BEYOND S FHD
 #EXTGRP:SKY HIGH
 http://tv.woobl.ru/SKY_HIGH_BEYOND_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1  tvg-id="sky-high-scream-fhd"  tvg-logo="https://iptvx.one/picons/sky-high-scream-fhd.png" ,SKY HIGH SCREAM FHD
+#EXTINF:-1 tvg-id="sky-high-scream-fhd"  tvg-logo="https://iptvx.one/picons/sky-high-scream-fhd.png" ,SKY HIGH SCREAM FHD
 #EXTGRP:SKY HIGH
 http://tv.woobl.ru/SKY_HIGH_SCREAM_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1  tvg-id="sky-high-brick-s-fhd" ,SKY HIGH BRICK S FHD
+#EXTINF:-1 tvg-id="sky-high-brick-s-fhd" ,SKY HIGH BRICK S FHD
 #EXTGRP:SKY HIGH
 http://tv.woobl.ru/SKY_HIGH_BRICK_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1  tvg-id="sky-high-firezone-fhd" ,SKY HIGH FIREZONE FHD
+#EXTINF:-1 tvg-id="sky-high-firezone-fhd" ,SKY HIGH FIREZONE FHD
 #EXTGRP:SKY HIGH
 http://tv.woobl.ru/SKY_HIGH_FIREZONE_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1  tvg-id="sky-high-gunrush-fhd" ,SKY HIGH GUNRUSH FHD
+#EXTINF:-1 tvg-id="sky-high-gunrush-fhd" ,SKY HIGH GUNRUSH FHD
 #EXTGRP:SKY HIGH
 http://tv.woobl.ru/SKY_HIGH_GUNRUSH_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1  tvg-id="sky-high-quants-fhd" ,SKY HIGH QUANTS FHD
+#EXTINF:-1 tvg-id="sky-high-quants-fhd" ,SKY HIGH QUANTS FHD
 #EXTGRP:SKY HIGH
 http://tv.woobl.ru/SKY_HIGH_QUANT_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1  tvg-id="sky-high-tanoss-fhd" ,SKY HIGH TANOS S FHD
+#EXTINF:-1 tvg-id="sky-high-tanoss-fhd" ,SKY HIGH TANOS S FHD
 #EXTGRP:SKY HIGH
 http://tv.woobl.ru/SKY_HIGH_TANOS_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1  tvg-id="sky-high-future-fhd" ,SKY HIGH FUTURE FHD
+#EXTINF:-1 tvg-id="sky-high-future-fhd" ,SKY HIGH FUTURE FHD
 #EXTGRP:SKY HIGH
 http://tv.woobl.ru/SKY_HIGH_FUTURE_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1  tvg-id="sky-high-civil-s-fhd" ,SKY HIGH CIVIL S FHD
+#EXTINF:-1 tvg-id="sky-high-civil-s-fhd" ,SKY HIGH CIVIL S FHD
 #EXTGRP:SKY HIGH
 http://tv.woobl.ru/SKY_HIGH_CIVIL_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1  tvg-id="sky-high-archive-fhd" ,SKY HIGH ARCHIVE FHD
+#EXTINF:-1 tvg-id="sky-high-archive-fhd" ,SKY HIGH ARCHIVE FHD
 #EXTGRP:SKY HIGH
 http://tv.woobl.ru/SKY_HIGH_ARCHIVE_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1  tvg-id="sky-high-trace-s-fhd" ,SKY HIGH TRACE S FHD
+#EXTINF:-1 tvg-id="sky-high-trace-s-fhd" ,SKY HIGH TRACE S FHD
 #EXTGRP:SKY HIGH
 http://tv.woobl.ru/SKY_HIGH_TRACE_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1  tvg-id="sky-high-votum-s-fhd" ,SKY HIGH VOTUM S FHD
+#EXTINF:-1 tvg-id="sky-high-votum-s-fhd" ,SKY HIGH VOTUM S FHD
 #EXTGRP:SKY HIGH
 http://tv.woobl.ru/SKY_HIGH_VOTUM_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1  tvg-id="sky-high-zippy-s-fhd" ,SKY HIGH ZIPPY S FHD
+#EXTINF:-1 tvg-id="sky-high-zippy-s-fhd" ,SKY HIGH ZIPPY S FHD
 #EXTGRP:SKY HIGH
 http://tv.woobl.ru/SKY_HIGH_ZIPPY_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1  tvg-id="sky-high-heart-s-fhd" ,SKY HIGH HEART S FHD
+#EXTINF:-1 tvg-id="sky-high-heart-s-fhd" ,SKY HIGH HEART S FHD
 #EXTGRP:SKY HIGH
 http://tv.woobl.ru/SKY_HIGH_HEART_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1  tvg-id="sky-high-joke-fhd" ,SKY HIGH JOKE FHD
+#EXTINF:-1 tvg-id="sky-high-joke-fhd" ,SKY HIGH JOKE FHD
 #EXTGRP:SKY HIGH
 http://tv.woobl.ru/SKY_HIGH_JOKE_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1  tvg-id="sky-high-romix-fhd" ,SKY HIGH ROMIX FHD
+#EXTINF:-1 tvg-id="sky-high-romix-fhd" ,SKY HIGH ROMIX FHD
 #EXTGRP:SKY HIGH
 http://tv.woobl.ru/SKY_HIGH_ROMIX_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1  tvg-id="sky-high-red-s-fhd" ,SKY HIGH RED S FHD
+#EXTINF:-1 tvg-id="sky-high-red-s-fhd" ,SKY HIGH RED S FHD
 #EXTGRP:SKY HIGH
 http://tv.woobl.ru/SKY_HIGH_RED_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1  tvg-id="sky-high-dragon-fhd" ,SKY HIGH DRAGON FHD
+#EXTINF:-1 tvg-id="sky-high-dragon-fhd" ,SKY HIGH DRAGON FHD
 #EXTGRP:SKY HIGH
 http://tv.woobl.ru/SKY_HIGH_DRAGON_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1  tvg-id="sky-high-woonder-fhd" ,SKY HIGH WOONDER FHD
+#EXTINF:-1 tvg-id="sky-high-woonder-fhd" ,SKY HIGH WOONDER FHD
 #EXTGRP:SKY HIGH
 http://tv.woobl.ru/SKY_HIGH_WOONDER_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1  tvg-id="skyhigh-space-4k-hdr"  tvg-logo="https://iptvx.one/picons/sky-high-space-4k-hdr.png" ,SKY HIGH SPACE 4K HDR
+#EXTINF:-1 tvg-id="skyhigh-space-4k-hdr"  tvg-logo="https://iptvx.one/picons/sky-high-space-4k-hdr.png" ,SKY HIGH SPACE 4K HDR
 #EXTGRP:SKY HIGH
 http://tv.woobl.ru/SKY_HIGH_SPACE_4K_HDR/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1  tvg-id="skyhigh-horror-4k-hdr"  tvg-logo="https://iptvx.one/picons/sky-high-horror-4k-hdr.png" ,SKY HIGH HORROR 4K HDR
+#EXTINF:-1 tvg-id="skyhigh-horror-4k-hdr"  tvg-logo="https://iptvx.one/picons/sky-high-horror-4k-hdr.png" ,SKY HIGH HORROR 4K HDR
 #EXTGRP:SKY HIGH
 http://tv.woobl.ru/SKY_HIGH_HORROR_4K_HDR/video.m3u8?token=5uGLTS1oibSIu0
 
@@ -462,19 +462,19 @@ http://158.101.222.193:88/georgia_play.php?id=black
 http://sochinskayatrk.ru/hdtv/hls/CTPK_400/playlist.m3u8
 #EXTINF:-1 tvg-id="43-tuapse" group-title="Кино", 43 канал
 http://sochinskayatrk.ru/hdtv/hls/43K_HD/playlist.m3u8
-#EXTINF:-1  tvg-id="sony-scifi" ,.sci-fi HD
+#EXTINF:-1 tvg-id="sony-scifi" ,.sci-fi HD
 #EXTGRP:Кино
 http://188.237.47.212:6001
-#EXTINF:-1  tvg-id="cinema-ru" ,Cinema
+#EXTINF:-1 tvg-id="cinema-ru" ,Cinema
 #EXTGRP:Кино
 http://dmitry-tv.ddns.net/hls/CH_CINEMA.m3u8
-#EXTINF:-1  tvg-id="kino-tv" ,КИНО ТВ
+#EXTINF:-1 tvg-id="kino-tv" ,КИНО ТВ
 #EXTGRP:Кино
 http://vod.tuva.ru/kinotv/index.m3u8
-#EXTINF:-1  tvg-id="ostrosiuzhetnoe-hd" ,Остросюжетное HD
+#EXTINF:-1 tvg-id="ostrosiuzhetnoe-hd" ,Остросюжетное HD
 #EXTGRP:Кино
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/9044/index.m3u8
-#EXTINF:-1  tvg-id="premialnoe-hd" ,Премиальное HD
+#EXTINF:-1 tvg-id="premialnoe-hd" ,Премиальное HD
 #EXTGRP:Кино
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/2410/index.m3u8
 
@@ -570,7 +570,7 @@ https://fl1001.bozztv.com/ushba-films-s/index.m3u8
 
 
 
-#EXTINF:-1  tvg-id="no_epg_music"  tvg-logo="https://iptvx.one/picons/sky-high-legends-hdr.png" ,SKY HIGH LOFI HD
+#EXTINF:-1 tvg-id="no_epg_music"  tvg-logo="https://iptvx.one/picons/sky-high-legends-hdr.png" ,SKY HIGH LOFI HD
 #EXTGRP:Музыкальные
 https://homtv.ru/WVd4NVlVQnRZV2xzTG5KMQ/1711.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://dvb.by/sources/logos/3133s.png",VF Music
@@ -601,7 +601,7 @@ http://de1se01.v2beat.live/playlist.m3u8
 
 
 
-#EXTINF:-1  tvg-logo="http://epg.one/img2/9132.png" ,VIP TVᴴᴰ
+#EXTINF:-1 tvg-logo="http://epg.one/img2/9132.png" ,VIP TVᴴᴰ
 #EXTGRP:Relax
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/vip.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg" group-title="Relax", Relax 1
@@ -620,7 +620,7 @@ http://serv30.vintera.tv:8081/sochi/sochi_stream/chunks.m3u8
 https://d2kil4r771hni8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-c6pkjy2v9xudz/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USAK3508705A
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg" group-title="Relax", Stingray Spa
 https://d9rd4243pcy92.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-e4dxftqz7hlvi/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3500013DG
-#EXTINF:-1  tvg-logo="https://i.imgur.com/882kd90.png"   channel-id="SamsungTVPlus-USAK3508705A" tvg-name="Stingray Naturescape" tvg-chno="4572",NATURESCAPEᴴᴰ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/882kd90.png"   channel-id="SamsungTVPlus-USAK3508705A" tvg-name="Stingray Naturescape" tvg-chno="4572",NATURESCAPEᴴᴰ
 #EXTGRP:Relax
 https://d2kil4r771hni8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-c6pkjy2v9xudz/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USAK3508705A
 
@@ -634,10 +634,10 @@ http://live-3.otcnet.ru/wfcrus/index.m3u8
 http://cdn.wfc.tv/cdn/stream-rus-1080p.m3u8
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="https://iptvx.one/picons/fashion-tv.png" group-title="Fashion", CODE FASHION
 https://cdn2.invivo.bg/Codefashion_5500/index.fmp4.m3u8
-#EXTINF:-1  tvg-logo="http://46.17.41.254:2020/logos/fashion-and-lifestyle-hd.png" ,Global Fashion HD
+#EXTINF:-1 tvg-logo="http://46.17.41.254:2020/logos/fashion-and-lifestyle-hd.png" ,Global Fashion HD
 #EXTGRP:Fashion
 https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
-#EXTINF:-1  tvg-id="FashionTVParisLOriginal.fr@SD"  tvg-logo="https://i.imgur.com/GFTAN5Q.png" ,Fashion TV Paris L'Originalᴴᴰ
+#EXTINF:-1 tvg-id="FashionTVParisLOriginal.fr@SD"  tvg-logo="https://i.imgur.com/GFTAN5Q.png" ,Fashion TV Paris L'Originalᴴᴰ
 #EXTGRP:Fashion
 https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
 
