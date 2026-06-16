@@ -2,7 +2,7 @@
 
 
 
-#EXTINF:-1 group-title="Инфо" tvg-logo="https://img.freepik.com/premium-vector/social-media-icon-cartoon-art_729283-92.jpg?semt=ais_hybrid&w=740",IPTV_HOME 16.06.26_11
+#EXTINF:-1 group-title="Инфо" tvg-logo="https://img.freepik.com/premium-vector/social-media-icon-cartoon-art_729283-92.jpg?semt=ais_hybrid&w=740",IPTV_HOME 16.06.26_12
 http://95.66.188.74/VHS/index.m3u8
 
 
@@ -612,9 +612,9 @@ https://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8
 http://serv30.vintera.tv:8081/sochi/sochi_stream/chunks.m3u8
 
 
-#EXTINF:-1 tvg-rec="3",Fashion & Lifestyle FHD
+#EXTINF:-1,Miami TV Modelsᴴᴰ
 #EXTGRP:Fashion
-http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/1010/index.m3u8
+https://158c4a71a80948ceb6c3c0696f90f164.mediatailor.us-east-2.amazonaws.com/v1/manifest/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-models/b6587c51-f64a-4f4b-933a-f902aed8a1cc/0.m3u8
 #EXTINF:-1 tvg-rec="3",Fashion TV RO
 #EXTGRP:Fashion
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/7051/index.m3u8
