@@ -2,7 +2,7 @@
 
 
 
-#EXTINF:-1 group-title="Инфо" tvg-logo="https://img.freepik.com/premium-vector/social-media-icon-cartoon-art_729283-92.jpg?semt=ais_hybrid&w=740",IPTV_HOME 16.06.26_01
+#EXTINF:-1 group-title="Инфо" tvg-logo="https://img.freepik.com/premium-vector/social-media-icon-cartoon-art_729283-92.jpg?semt=ais_hybrid&w=740",IPTV_HOME 16.06.26_02
 http://95.66.188.74/VHS/index.m3u8
 
 
@@ -626,6 +626,9 @@ https://d2kil4r771hni8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 
 
+#EXTINF:-1 tvg-rec="0",FashionBox HD
+#EXTGRP:Fashion
+http://0dff2aae.ucomist.net/iptv/BQETB7GS453AKA/20038/index.m3u8
 #EXTINF:-1 tvg-id="world-fashion-channel-en" tvg-logo="https://iptvx.one/picons/world-fashion-channel-en.png" group-title="Fashion",World Fashion Channel En
 http://cdn.wfc.tv/cdn/stream-eng-1080p.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fashion TV" tvg-logo="https://iptvx.one/picons/world-fashion-channel.png" group-title="Fashion",Fashion TV
@@ -634,7 +637,7 @@ http://fashionlive.mediacdn.ru/cdn/fashiontv/tracks-v1a1/mono.m3u8
 http://live-3.otcnet.ru/wfcrus/index.m3u8
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="https://iptvx.one/picons/fashion-tv.png" group-title="Fashion", CODE FASHION
 https://cdn2.invivo.bg/Codefashion_5500/index.fmp4.m3u8
-#EXTINF:-1 tvg-logo="http://46.17.41.254:2020/logos/fashion-and-lifestyle-hd.png" ,Global Fashion HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GFTAN5Q.png" ,Global Fashion HD
 #EXTGRP:Fashion
 https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
 #EXTINF:-1 tvg-id="FashionTVParisLOriginal.fr@SD"  tvg-logo="https://i.imgur.com/GFTAN5Q.png" ,Fashion TV Paris L'Originalᴴᴰ
