@@ -2,7 +2,7 @@
 
 
 
-#EXTINF:-1 group-title="Инфо" tvg-logo="https://img.freepik.com/premium-vector/social-media-icon-cartoon-art_729283-92.jpg?semt=ais_hybrid&w=740",IPTV_HOME 16.06.26_03
+#EXTINF:-1 group-title="Инфо" tvg-logo="https://img.freepik.com/premium-vector/social-media-icon-cartoon-art_729283-92.jpg?semt=ais_hybrid&w=740",IPTV_HOME 16.06.26_04
 http://95.66.188.74/VHS/index.m3u8
 
 
@@ -626,7 +626,7 @@ https://d2kil4r771hni8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 
 
-#EXTINF:0 tvg-rec="3",Fashion TV HD orig
+#EXTINF:-1 tvg-rec="3",Fashion TV HD orig
 #EXTGRP:Fashion
 http://0dff2aae.ucomist.net/iptv/BQETB7GS453AKA/2411/index.m3u8
 #EXTINF:-1 tvg-rec="0",FashionBox HD
