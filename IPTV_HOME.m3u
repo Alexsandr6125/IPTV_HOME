@@ -2,7 +2,7 @@
 
 
 
-#EXTINF:-1 group-title="Инфо" tvg-logo="https://img.freepik.com/premium-vector/social-media-icon-cartoon-art_729283-92.jpg?semt=ais_hybrid&w=740",IPTV_HOME 16.06.26_08
+#EXTINF:-1 group-title="Инфо" tvg-logo="https://img.freepik.com/premium-vector/social-media-icon-cartoon-art_729283-92.jpg?semt=ais_hybrid&w=740",IPTV_HOME 16.06.26_09
 http://95.66.188.74/VHS/index.m3u8
 
 
@@ -613,8 +613,8 @@ http://serv30.vintera.tv:8081/sochi/sochi_stream/chunks.m3u8
 
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="World Fashion Channel" tvg-logo="" group-title="Fashion",World Fashion Channel
-http://live-3.otcnet.ru/wfcrus/index.m3u8
+#EXTINF:-1 tvg-id="fashion-tv" tvg-name="Fashion TV" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052019/fashion_tv_2009_symbol.png" group-title="Fashion",Fashion TV
+https://stream8.cinerama.uz/1053/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="world-fashion-channel-en" tvg-logo="https://iptvx.one/picons/world-fashion-channel-en.png" group-title="Fashion",World Fashion Channel En
 http://cdn.wfc.tv/cdn/stream-eng-1080p.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fashion TV" tvg-logo="https://iptvx.one/picons/world-fashion-channel.png" group-title="Fashion",Fashion TV
