@@ -2,7 +2,7 @@
 
 
 
-#EXTINF:-1 group-title="Инфо" tvg-logo="https://img.freepik.com/premium-vector/social-media-icon-cartoon-art_729283-92.jpg?semt=ais_hybrid&w=740",IPTV_HOME 16.06.26_09
+#EXTINF:-1 group-title="Инфо" tvg-logo="https://img.freepik.com/premium-vector/social-media-icon-cartoon-art_729283-92.jpg?semt=ais_hybrid&w=740",IPTV_HOME 16.06.26_11
 http://95.66.188.74/VHS/index.m3u8
 
 
@@ -612,7 +612,18 @@ https://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8
 http://serv30.vintera.tv:8081/sochi/sochi_stream/chunks.m3u8
 
 
-
+#EXTINF:-1 tvg-rec="3",Fashion & Lifestyle FHD
+#EXTGRP:Fashion
+http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/1010/index.m3u8
+#EXTINF:-1 tvg-rec="3",Fashion TV RO
+#EXTGRP:Fashion
+http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/7051/index.m3u8
+#EXTINF:-1 tvg-rec="0",Fashion TV HD DE
+#EXTGRP:Fashion
+http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/31316/index.m3u8
+#EXTINF:-1 tvg-rec="7",Fashion One HD
+#EXTGRP:Fashion
+http://jpqmdtum.megogo.xyz/iptv/83HUZRHVU7LZA2/2044/index.m3u8
 #EXTINF:-1 tvg-id="fashion-tv" tvg-name="Fashion TV" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052019/fashion_tv_2009_symbol.png" group-title="Fashion",Fashion TV
 https://stream8.cinerama.uz/1053/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="world-fashion-channel-en" tvg-logo="https://iptvx.one/picons/world-fashion-channel-en.png" group-title="Fashion",World Fashion Channel En
