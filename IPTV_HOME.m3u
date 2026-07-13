@@ -2,7 +2,7 @@
 
 
 
-#EXTINF:-1 group-title="Инфо" tvg-logo="https://img.freepik.com/premium-vector/social-media-icon-cartoon-art_729283-92.jpg?semt=ais_hybrid&w=740",IPTV_HOME 16.06.26_14
+#EXTINF:-1 group-title="Инфо" tvg-logo="https://img.freepik.com/premium-vector/social-media-icon-cartoon-art_729283-92.jpg?semt=ais_hybrid&w=740",IPTV_HOME 13.07.26
 http://95.66.188.74/VHS/index.m3u8
 
 
@@ -30,8 +30,6 @@ http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/232/index.m3u8
 #EXTINF:-1  tvg-id="box-game"  tvg-logo="https://iptvx.one/picons/box-game.png",BOX Game HD
 #EXTGRP:Развлекательные
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/19284/index.m3u8
-#EXTINF:-1 tvg-id="no_epg" group-title="Развлекательные" tvg-logo="https://www.codester.com/static/uploads/items/000/010/10952/preview.jpg",Gameplay
-https://fl1001.bozztv.com/ushba31/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="no_epg" group-title="Развлекательные" tvg-logo="https://cdn.vox-cdn.com/thumbor/cKmWp_uKpELnAmMk4BEIdJShlrk=/0x0:960x540/1600x900/cdn.vox-cdn.com/uploads/chorus_image/image/34106623/gametrailers-logo_960.0.jpg",Gameplay трейлеры
 https://fl1001.bozztv.com/ushba44/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ru/8/8d/The_Benny_Hill_Show.jpg" tvg-id="no_epg_cinema" group-title="Развлекательные",Шоу Бенни Хилла
