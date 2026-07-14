@@ -2,7 +2,7 @@
 
 
 
-#EXTINF:-1 group-title="Инфо" tvg-logo="https://img.freepik.com/premium-vector/social-media-icon-cartoon-art_729283-92.jpg?semt=ais_hybrid&w=740",IPTV_HOME 13.07.26
+#EXTINF:-1 group-title="Инфо" tvg-logo="https://img.freepik.com/premium-vector/social-media-icon-cartoon-art_729283-92.jpg?semt=ais_hybrid&w=740",IPTV_HOME 14.07.26
 http://95.66.188.74/VHS/index.m3u8
 
 
@@ -46,11 +46,17 @@ http://158.101.222.193:88/georgia_play.php?id=viasatnat
 #EXTINF:-1 group-title="Познавательные",Viju Explore
 http://158.101.222.193:88/georgia_play.php?id=viasatexp
 #EXTINF:-1 tvg-id="nat-geo-wild" group-title="Познавательные",Nat Geo Wild
-https://stream8.cinerama.uz/1042/tracks-v1a1/mono.m3u8
+http://3b19d615.ucomist.net/iptv/LNUZFZ7YFN4ACA/216/index.m3u8
+#EXTINF:-1 tvg-id="nat-geo-wild" group-title="Познавательные",Nat Geo Wild
+http://3b19d615.ucomist.net/iptv/LNUZFZ7YFN4ACA/2415/index.m3u8
 #EXTINF:-1 tvg-id="national-geographic" group-title="Познавательные",National Geographic
-https://stream8.cinerama.uz/1041/tracks-v1a1/mono.m3u8
+http://3b19d615.ucomist.net/iptv/LNUZFZ7YFN4ACA/14001/index.m3u8
 #EXTINF:-1 tvg-id="discovery-channel" group-title="Познавательные",Discovery
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/227/index.m3u8
+#EXTINF:-1 tvg-id="discovery-channel" group-title="Познавательные",Discovery
+http://3b19d615.ucomist.net/iptv/LNUZFZ7YFN4ACA/140/index.m3u8
+#EXTINF:-1 tvg-id="discovery-channel" group-title="Познавательные",Discovery
+http://3b19d615.ucomist.net/iptv/LNUZFZ7YFN4ACA/227/index.m3u8
 #EXTINF:-1 tvg-id="glazami-turista" group-title="Познавательные",Глазами туриста
 https://s06.watcher.uz/127/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
 #EXTINF:-1 tvg-id="muzhskoy" group-title="Познавательные",Мужской
