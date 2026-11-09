@@ -50,9 +50,9 @@ http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:0A:AC:C0&stream=132627&ex
 #EXTINF:-1 tvg-id="discovery-channel" group-title="Познавательные",Discovery
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/227/index.m3u8
 #EXTINF:-1 tvg-id="discovery-channel" group-title="Познавательные",Discovery
-http://3b19d615.ucomist.net/iptv/LNUZFZ7YFN4ACA/140/index.m3u8
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031928&extension=ts&play_token=ghKsJXNm1D
 #EXTINF:-1 tvg-id="discovery-channel" group-title="Познавательные",Discovery
-http://3b19d615.ucomist.net/iptv/LNUZFZ7YFN4ACA/227/index.m3u8
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031929&extension=ts&play_token=61HrCjaM0q
 #EXTINF:-1 tvg-id="discovery-science" tvg-rec="3" tvg-logo="http://epg.it999.ru/img/409.png" group-title="Познавательные",Discovery Science HD
 http://3b19d615.ucomist.net/iptv/LNUZFZ7YFN4ACA/6001/index.m3u8
 #EXTINF:-1 tvg-id="glazami-turista" group-title="Познавательные",Глазами туриста
