@@ -2,7 +2,7 @@
 
 
 
-#EXTINF:-1 group-title="Инфо" tvg-logo="https://img.freepik.com/premium-vector/social-media-icon-cartoon-art_729283-92.jpg?semt=ais_hybrid&w=740",IPTV_HOME 09.11.26_02
+#EXTINF:-1 group-title="Инфо" tvg-logo="https://img.freepik.com/premium-vector/social-media-icon-cartoon-art_729283-92.jpg?semt=ais_hybrid&w=740",IPTV_HOME 10.11.26
 http://95.66.188.74/VHS/index.m3u8
 
 
@@ -192,6 +192,14 @@ http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/10066/index.m3u8
 
 #EXTINF:-1 group-title="VHS",VHS-ка HD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/83HUZRHVU7LZA2/5006/index.m3u8
+#EXTINF:-1 group-title="VHS",VHS-ка HD
+https://kino.zunotv.workers.dev/SKY_HIGH_GUNRUSH_FHD/index.m3u8
+#EXTINF:-1 group-title="VHS",VHS-ка HD
+https://kino.zunotv.workers.dev/SKY_HIGH_SCREAM_FHD/index.m3u8
+#EXTINF:-1 group-title="VHS",VHS-ка HD
+http://1f14fe4b.rossteleccom.net/iptv/96FNZHEUB9GK66/5006/index.m3u8
+#EXTINF:-1 group-title="VHS",VHS-ка HD
+http://0dff2aae.ucomist.net/iptv/BQETB7GS453AKA/5006/index.m3u8
 #EXTINF:-1 group-title="VHS" tvg-id="vf-vhs",VF VHS MIX
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/10009/index.m3u8
 #EXTINF:-1 group-title="VHS",VF Ужасы VHS
@@ -199,24 +207,7 @@ http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/10008/index.m3u8
 #EXTINF:-1 tvg-id="bcu-vhs" ,BCU VHS HD
 #EXTGRP:VHS
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/11042/index.m3u8
-#EXTINF:-1 tvg-id="sky-high-fear-vhs-fhd" ,SKY HIGH FEAR VHS FHD
-#EXTGRP:VHS
-http://tv.woobl.ru/SKY_HIGH_FEAR_VHS_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 tvg-id="sky-high-strike-vhs-fhd" ,SKY HIGH STRIKE VHS FHD
-#EXTGRP:VHS
-http://tv.woobl.ru/SKY_HIGH_STRIKE_VHS_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 tvg-id="sky-high-neonvhs-fhd" ,SKY HIGH NEON VHS FHD
-#EXTGRP:VHS
-http://tv.woobl.ru/SKY_HIGH_NEON_VHS_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 tvg-id="sky-high-case-vhs-fhd" ,SKY HIGH CASE VHS FHD
-#EXTGRP:VHS
-http://tv.woobl.ru/SKY_HIGH_CASE_VHS_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 tvg-id="sky-high-medy-vhs-fhd" ,SKY HIGH MEDY VHS FHD
-#EXTGRP:VHS
-http://tv.woobl.ru/SKY_HIGH_MEDY_VHS_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 tvg-id="sky-high-wizz-vhs-fhd" ,SKY HIGH WIZZ VHS FHD
-#EXTGRP:VHS
-http://tv.woobl.ru/SKY_HIGH_WIZZ_VHS_FHD/video.m3u8?token=5uGLTS1oibSIu0
+
 
 
 
