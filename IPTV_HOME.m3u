@@ -2,7 +2,7 @@
 
 
 
-#EXTINF:-1 group-title="Инфо" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-hoover.png",IPTV_HOME 10.11.26_05
+#EXTINF:-1 group-title="Инфо" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-hoover.png",IPTV_HOME 11.11.26
 http://95.66.188.74/VHS/index.m3u8
 
 
@@ -421,33 +421,28 @@ http://tv.woobl.ru/SKY_HIGH_HORROR_4K_HDR/video.m3u8?token=5uGLTS1oibSIu0
 #EXTGRP:Кино
 http://jpqmdtum.megogo.xyz/iptv/83HUZRHVU7LZA2/14161/index.m3u8
 #EXTINF:-1 tvg-id="amedia1" group-title="Кино", Amedia 1
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ESMHU7B3S7N5NW/554/index.m3u8
+http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/554/index.m3u8
 #EXTINF:-1 group-title="Кино", Amedia 2
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/2046/index.m3u8
+http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/9129/index.m3u8
 #EXTINF:-1 group-title="Кино",Amedia Hit
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/6010/index.m3u8
+http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/556/index.m3u8
 #EXTINF:-1 group-title="Кино",Amedia Premium
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/229/index.m3u8
+http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/555/index.m3u8
 #EXTINF:-1  tvg-id="kinopokaz"   tvg-name="Кинопоказ",КИНОПОКАЗ
 #EXTGRP:Кино
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/2439/index.m3u8
 #EXTINF:-1 group-title="Кино",Иллюзион+
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/9241/index.m3u8
-#EXTINF:-1 tvg-id="feniks-plus-kino" group-title="Кино",Феникс+Кино
-http://158.101.222.193:88/georgia_play.php?id=fenikspluskino
-#EXTINF:-1 tvg-id="rus-hualiang-tv" group-title="Кино", Китай ТВ
-https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
 #EXTINF:-1 group-title="Кино",Еврокино
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/9134/index.m3u8
-#EXTINF:-1 group-title="Кино", Sony Turbo
-http://158.101.222.193:88/georgia_play.php?id=black
+#EXTINF:-1 group-title="Кино", .Black
+http://195.64.140.147:10087/87
+#EXTINF:-1 group-title="Кино", .Red
+http://195.64.140.147:10085/85
+#EXTINF:-1 group-title="Кино", .Sci-Fi
+http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/20020/index.m3u8
 #EXTINF:-1 tvg-id="strk" group-title="Кино", СТРК HD
 http://sochinskayatrk.ru/hdtv/hls/CTPK_400/playlist.m3u8
-#EXTINF:-1 tvg-id="43-tuapse" group-title="Кино", 43 канал
-http://sochinskayatrk.ru/hdtv/hls/43K_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="sony-scifi" ,.sci-fi HD
-#EXTGRP:Кино
-http://188.237.47.212:6001
 #EXTINF:-1 tvg-id="cinema-ru" ,Cinema
 #EXTGRP:Кино
 http://dmitry-tv.ddns.net/hls/CH_CINEMA.m3u8
@@ -517,13 +512,17 @@ https://fl1001.bozztv.com/ushba-rfilrms-i/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="mosfilm" tvg-logo="https://iptvx.one/picons/mosfilm.png" group-title="КиноRU", Мосфильм. Золотая коллекция
-http://178.134.1.158:8081/mosfilm/index.m3u8
+http://31.210.208.171:8080/mosfilm/index.m3u8?token=+W2MSER
+#EXTINF:-1 tvg-id="mosfilm" tvg-logo="https://iptvx.one/picons/mosfilm.png" group-title="КиноRU", Мосфильм. Золотая коллекция
+http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/9156/index.m3u8
+#EXTINF:-1 tvg-id="mosfilm" tvg-logo="https://iptvx.one/picons/mosfilm.png" group-title="КиноRU", Мосфильм. Золотая коллекция
+http://1f14fe4b.rossteleccom.net/iptv/96FNZHEUB9GK66/9156/index.m3u8
+#EXTINF:-1 tvg-id="mosfilm" tvg-logo="https://iptvx.one/picons/mosfilm.png" group-title="КиноRU", Мосфильм. Золотая коллекция
+http://0dff2aae.ucomist.net/iptv/BQETB7GS453AKA/17022/index.m3u8
 #EXTINF:-1 group-title="КиноRU", Кино 1 International
-http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
-#EXTINF:-1 tvg-id="no_epg_cinema" group-title="КиноRU" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png",Кинозалы 3
-https://fl1001.bozztv.com/ushba24/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="no_epg_cinema" group-title="КиноRU" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png",Кинозалы 35
-https://fl1001.bozztv.com/ushba-rfilrms-z/tracks-v1a1/mono.m3u8
+http://1f14fe4b.rossteleccom.net/iptv/96FNZHEUB9GK66/18071/index.m3u8
+#EXTINF:-1 group-title="КиноRU", Кино 1 International
+http://0dff2aae.ucomist.net/iptv/BQETB7GS453AKA/18071/index.m3u8
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://img.catcast.tv/uploads/04092021/logos/40672-61329195ca44d.jpg" group-title="КиноRU", LAV-KINO
 https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
 
@@ -640,10 +639,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_U_2/variant.m3u8?|User-agent=HlsWink
 http://31.210.208.171:8080/jivi/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Sveta", Живи активно HD
 https://s06.watcher.uz/117/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
-#EXTINF:-1 group-title="Sveta" tvg-id="no_epg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0fYMfZzNWBmtndr8f9a9U9fQW6tKK7pBLhg&s", Чирлидинг
-https://fl1001.bozztv.com/ushba55/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Sveta" tvg-id="no_epg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0fYMfZzNWBmtndr8f9a9U9fQW6tKK7pBLhg&s", Гимнастика
-https://fl1004.bozztv.com/ushba-flocke/tracks-v1a1/mono.m3u8
+
 
 
 
