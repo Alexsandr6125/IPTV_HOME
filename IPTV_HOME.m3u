@@ -2,7 +2,7 @@
 
 
 
-#EXTINF:-1 group-title="Инфо" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-hoover.png",IPTV_HOME 12.11.26_01
+#EXTINF:-1 group-title="Инфо" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-hoover.png",IPTV_HOME 13.11.26
 http://95.66.188.74/VHS/index.m3u8
 
 
@@ -705,6 +705,100 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/FXKQ7A436V3CF5CQ46QN8USQ
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/FXKQ7A436V3CF5CQ46QN8USQ/31656/index.m3u8
 #EXTINF:0 group-title="NEW 12.11.26 BOX" tvg-id="8923" tvg-logo="http://epg.one/img2/8923.png" tvg-rec="0",BOX Serial 4K
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/FXKQ7A436V3CF5CQ46QN8USQ/31657/index.m3u8
+
+
+
+
+#EXTINF:0 tvg-rec="0",BOX History 4K HDR
+#EXTGRP:Познавательные
+http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/31546/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Kosmo 4K HDR
+#EXTGRP:NEW 13.11.26 BOX
+http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/31548/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Travel Premiere HD
+#EXTGRP:NEW 13.11.26 BOX
+http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/31652/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Gurman HD
+#EXTGRP:NEW 13.11.26 BOX
+http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/31653/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX AutoTrend HD
+#EXTGRP:NEW 13.11.26 BOX
+http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/31654/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Docu HD
+#EXTGRP:NEW 13.11.26 BOX
+http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/20153/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX СССР 4K
+#EXTGRP:NEW 13.11.26 BOX
+http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/31625/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Apocalypse HD
+#EXTGRP:NEW 13.11.26 BOX
+http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/31655/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Remast+ 4K
+#EXTGRP:NEW 13.11.26 BOX
+http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/31656/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Serial 4K
+#EXTGRP:NEW 13.11.26 BOX
+http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/31657/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Franchise HD
+#EXTGRP:NEW 13.11.26 BOX
+http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/19274/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Hybrid HD
+#EXTGRP:NEW 13.11.26 BOX
+http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/19275/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Anime HD
+#EXTGRP:NEW 13.11.26 BOX
+http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/19276/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Gangster HD
+#EXTGRP:NEW 13.11.26 BOX
+http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/19277/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Oscar HD
+#EXTGRP:NEW 13.11.26 BOX
+http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/19278/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Memory HD
+#EXTGRP:NEW 13.11.26 BOX
+http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/19279/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX M.Serial HD
+#EXTGRP:NEW 13.11.26 BOX
+http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/19280/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Serial HD
+#EXTGRP:NEW 13.11.26 BOX
+http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/19281/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Game HD
+#EXTGRP:NEW 13.11.26 BOX
+http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/19284/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Spy HD
+#EXTGRP:NEW 13.11.26 BOX
+http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/19285/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Travel HD
+#EXTGRP:NEW 13.11.26 BOX
+http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/19418/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Western HD
+#EXTGRP:NEW 13.11.26 BOX
+http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/19419/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Zombie HD
+#EXTGRP:NEW 13.11.26 BOX
+http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/19420/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Cyber HD
+#EXTGRP:NEW 13.11.26 BOX
+http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/19421/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Ghost HD
+#EXTGRP:NEW 13.11.26 BOX
+http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/20154/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Stories HD
+#EXTGRP:NEW 13.11.26 BOX
+http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/20155/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Fantasy HD
+#EXTGRP:NEW 13.11.26 BOX
+http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/20156/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Premiere 4K
+#EXTGRP:NEW 13.11.26 BOX
+http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/20157/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Remast 4K
+#EXTGRP:NEW 13.11.26 BOX
+http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/20158/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Mayday HD
+#EXTGRP:NEW 13.11.26 BOX
+http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/20159/index.m3u8
 
 
 
