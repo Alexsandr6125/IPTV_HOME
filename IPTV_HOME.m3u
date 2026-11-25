@@ -2,7 +2,7 @@
 
 
 
-#EXTINF:-1 group-title="Инфо" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-hoover.png",IPTV_HOME 25.11.26
+#EXTINF:-1 group-title="Инфо" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-hoover.png",IPTV_HOME 25.11.26_01
 http://95.66.188.74/VHS/index.m3u8
 
 
@@ -1244,27 +1244,33 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/CS7X8FQ83E4L82/11026/ind
 
 
 
-#EXT-X-VERSION:6
-#EXT-X-TARGETDURATION:12
-#EXT-X-MEDIA-SEQUENCE:28388
-#EXT-X-DISCONTINUITY-SEQUENCE:13
+#EXTINF:-1 ,Miami TV Modelsᴴᴰ
+#EXTGRP:Test
 https://59ec5453559f0.streamlock.net:443/miamitvmodels/_definst_/models/media_w1502522195_28397.ts
-#EXTINF:5.964,
+#EXTINF:-1 ,Miami TV Modelsᴴᴰ
+#EXTGRP:Test
 https://59ec5453559f0.streamlock.net:443/miamitvmodels/_definst_/models/media_w1502522195_28388.ts
-#EXTINF:6.757,
+#EXTINF:-1 ,Miami TV Modelsᴴᴰ
+#EXTGRP:Test
 https://59ec5453559f0.streamlock.net:443/miamitvmodels/_definst_/models/media_w1502522195_28389.ts
-#EXTINF:5.755,
+#EXTINF:-1 ,Miami TV Modelsᴴᴰ
+#EXTGRP:Test
 https://59ec5453559f0.streamlock.net:443/miamitvmodels/_definst_/models/media_w1502522195_28390.ts
-#EXTINF:6.382,
+#EXTINF:-1 ,Miami TV Modelsᴴᴰ
+#EXTGRP:Test
 https://59ec5453559f0.streamlock.net:443/miamitvmodels/_definst_/models/media_w1502522195_28391.ts
-#EXTINF:5.38,
+#EXTINF:-1 ,Miami TV Modelsᴴᴰ
+#EXTGRP:Test
 https://59ec5453559f0.streamlock.net:443/miamitvmodels/_definst_/models/media_w1502522195_28392.ts
-#EXTINF:6.298,
+#EXTINF:-1 ,Miami TV Modelsᴴᴰ
+#EXTGRP:Test
 https://59ec5453559f0.streamlock.net:443/miamitvmodels/_definst_/models/media_w1502522195_28393.ts
-#EXTINF:5.547,
+#EXTINF:-1 ,Miami TV Modelsᴴᴰ
+#EXTGRP:Test
 https://59ec5453559f0.streamlock.net:443/miamitvmodels/_definst_/models/media_w1502522195_28394.ts
-#EXTINF:5.965,
+#EXTINF:-1 ,Miami TV Modelsᴴᴰ
+#EXTGRP:Test
 https://59ec5453559f0.streamlock.net:443/miamitvmodels/_definst_/models/media_w1502522195_28395.ts
-#EXTINF:6.256,
+#EXTINF:-1 ,Miami TV Modelsᴴᴰ
+#EXTGRP:Test
 https://59ec5453559f0.streamlock.net:443/miamitvmodels/_definst_/models/media_w1502522195_28396.ts
-#EXTINF:5.881,
