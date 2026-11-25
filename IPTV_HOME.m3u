@@ -2,7 +2,7 @@
 
 
 
-#EXTINF:-1 group-title="Инфо" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-hoover.png",IPTV_HOME 24.11.26
+#EXTINF:-1 group-title="Инфо" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-hoover.png",IPTV_HOME 25.11.26
 http://95.66.188.74/VHS/index.m3u8
 
 
@@ -1239,3 +1239,32 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/83HUZRHVU7LZA2/11026/ind
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2PCDLY8XPGWTT4/11026/index.m3u8
 #EXTINF:0 tvg-id="4747" tvg-name="Bcu Ссср [HD]" tvg-logo="http://epg.one/img2/4747.png" group-title="NEW 10.11.26 BCU",Bcu Ссср [HD]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/CS7X8FQ83E4L82/11026/index.m3u8
+
+
+
+
+
+#EXT-X-VERSION:6
+#EXT-X-TARGETDURATION:12
+#EXT-X-MEDIA-SEQUENCE:28388
+#EXT-X-DISCONTINUITY-SEQUENCE:13
+https://59ec5453559f0.streamlock.net:443/miamitvmodels/_definst_/models/media_w1502522195_28397.ts
+#EXTINF:5.964,
+https://59ec5453559f0.streamlock.net:443/miamitvmodels/_definst_/models/media_w1502522195_28388.ts
+#EXTINF:6.757,
+https://59ec5453559f0.streamlock.net:443/miamitvmodels/_definst_/models/media_w1502522195_28389.ts
+#EXTINF:5.755,
+https://59ec5453559f0.streamlock.net:443/miamitvmodels/_definst_/models/media_w1502522195_28390.ts
+#EXTINF:6.382,
+https://59ec5453559f0.streamlock.net:443/miamitvmodels/_definst_/models/media_w1502522195_28391.ts
+#EXTINF:5.38,
+https://59ec5453559f0.streamlock.net:443/miamitvmodels/_definst_/models/media_w1502522195_28392.ts
+#EXTINF:6.298,
+https://59ec5453559f0.streamlock.net:443/miamitvmodels/_definst_/models/media_w1502522195_28393.ts
+#EXTINF:5.547,
+https://59ec5453559f0.streamlock.net:443/miamitvmodels/_definst_/models/media_w1502522195_28394.ts
+#EXTINF:5.965,
+https://59ec5453559f0.streamlock.net:443/miamitvmodels/_definst_/models/media_w1502522195_28395.ts
+#EXTINF:6.256,
+https://59ec5453559f0.streamlock.net:443/miamitvmodels/_definst_/models/media_w1502522195_28396.ts
+#EXTINF:5.881,
