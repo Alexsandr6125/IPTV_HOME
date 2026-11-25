@@ -2,7 +2,7 @@
 
 
 
-#EXTINF:-1 group-title="Инфо" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-hoover.png",IPTV_HOME 25.11.26_01
+#EXTINF:-1 group-title="Инфо" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-hoover.png",IPTV_HOME 25.11.26_02
 http://95.66.188.74/VHS/index.m3u8
 
 
@@ -180,123 +180,243 @@ https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="vf-uralskie-pelmeni" ,VF Уральские пельмени
 #EXTGRP:VF
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/18198/index.m3u8
+#EXTINF:-1 tvg-id="vf-uralskie-pelmeni" ,VF Уральские пельмени
+#EXTGRP:VF
+http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/18198/index.m3u8
 #EXTINF:-1 tvg-id="vf-schastlivy-vmeste" ,VF Счастливы Вместе
 #EXTGRP:VF
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/9242/index.m3u8
-#EXTINF:-1 tvg-id="vf-kino4k" ,VF Кино 4K
+#EXTINF:-1 tvg-id="vf-schastlivy-vmeste" ,VF Счастливы Вместе
 #EXTGRP:VF
-http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/11114/index.m3u8
+http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/9242/index.m3u8
 #EXTINF:-1 tvg-id="vf-garipoter" ,VF Гарри Поттер
 #EXTGRP:VF
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/14230/index.m3u8
+#EXTINF:-1 tvg-id="vf-garipoter" ,VF Гарри Поттер
+#EXTGRP:VF
+http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/14230/index.m3u8
+#EXTINF:-1 tvg-id="vf-kino4k" ,VF Кино 4K
+#EXTGRP:VF
+http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/11114/index.m3u8
+#EXTINF:-1 tvg-id="vf-kino4k" ,VF Кино 4K
+#EXTGRP:VF
+http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/11114/index.m3u8
 #EXTINF:-1 tvg-id="vf-disney-movie" ,VF Disney Movie
 #EXTGRP:VF
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/15010/index.m3u8
+#EXTINF:-1 tvg-id="vf-disney-movie" ,VF Disney Movie
+#EXTGRP:VF
+http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/15010/index.m3u8
 #EXTINF:-1 tvg-id="vf-adventure" ,VF Adventure
 #EXTGRP:VF
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/10000/index.m3u8
+#EXTINF:-1 tvg-id="vf-adventure" ,VF Adventure
+#EXTGRP:VF
+http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/10000/index.m3u8
 #EXTINF:-1 tvg-id="vf-fantasy" ,VF Fantasy
 #EXTGRP:VF
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/10005/index.m3u8
+#EXTINF:-1 tvg-id="vf-fantasy" ,VF Fantasy
+#EXTGRP:VF
+http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/10005/index.m3u8
 #EXTINF:-1 tvg-id="vf-mystic" ,VF Mystic
 #EXTGRP:VF
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/10007/index.m3u8
+#EXTINF:-1 tvg-id="vf-mystic" ,VF Mystic
+#EXTGRP:VF
+http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/10007/index.m3u8
 #EXTINF:-1 tvg-id="vf-uzhasy" ,VF Ужасы
 #EXTGRP:VF
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/10008/index.m3u8
+#EXTINF:-1 tvg-id="vf-uzhasy" ,VF Ужасы
+#EXTGRP:VF
+http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/10008/index.m3u8
 #EXTINF:-1 tvg-id="vf-premiere" ,VF Premiere
 #EXTGRP:VF
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/10052/index.m3u8
+#EXTINF:-1 tvg-id="vf-premiere" ,VF Premiere
+#EXTGRP:VF
+http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/10052/index.m3u8
 #EXTINF:-1 tvg-id="vf-komedia" ,VF Комедия
 #EXTGRP:VF
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/10055/index.m3u8
+#EXTINF:-1 tvg-id="vf-komedia" ,VF Комедия
+#EXTGRP:VF
+http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/10055/index.m3u8
 #EXTINF:-1 tvg-id="vf-katastrofy" ,VF Катастрофы
 #EXTGRP:VF
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/10080/index.m3u8
+#EXTINF:-1 tvg-id="vf-katastrofy" ,VF Катастрофы
+#EXTGRP:VF
+http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/10080/index.m3u8
 #EXTINF:-1 tvg-id="vf-marvel" ,VF Marvel
 #EXTGRP:VF
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/10081/index.m3u8
+#EXTINF:-1 tvg-id="vf-marvel" ,VF Marvel
+#EXTGRP:VF
+http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/10081/index.m3u8
 #EXTINF:-1 tvg-id="vf-voennye"  tvg-logo="https://iptvx.one/picons/vf-voennye.png" ,VF Военные
 #EXTGRP:VF
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/10082/index.m3u8
+#EXTINF:-1 tvg-id="vf-voennye"  tvg-logo="https://iptvx.one/picons/vf-voennye.png" ,VF Военные
+#EXTGRP:VF
+http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/10082/index.m3u8
 #EXTINF:-1 tvg-id="vf-western" ,VF Вестерн
 #EXTGRP:VF
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/31553/index.m3u8
+#EXTINF:-1 tvg-id="vf-western" ,VF Вестерн
+#EXTGRP:VF
+http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/31553/index.m3u8
 #EXTINF:-1 tvg-id="vf-boevik" ,VF Боевик
 #EXTGRP:VF
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/10087/index.m3u8
+#EXTINF:-1 tvg-id="vf-boevik" ,VF Боевик
+#EXTGRP:VF
+http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/10087/index.m3u8
 #EXTINF:-1 tvg-id="vf-top-series" ,VF TOP Series
 #EXTGRP:VF
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/11116/index.m3u8
+#EXTINF:-1 tvg-id="vf-top-series" ,VF TOP Series
+#EXTGRP:VF
+http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/11116/index.m3u8
 #EXTINF:-1 tvg-id="vf-arthouse" ,VF Art house
 #EXTGRP:VF
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/11119/index.m3u8
+#EXTINF:-1 tvg-id="vf-arthouse" ,VF Art house
+#EXTGRP:VF
+http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/11119/index.m3u8
 #EXTINF:-1 tvg-id="vf-detective" ,VF Detective
 #EXTGRP:VF
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/11120/index.m3u8
+#EXTINF:-1 tvg-id="vf-detective" ,VF Detective
+#EXTGRP:VF
+http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/11120/index.m3u8
 #EXTINF:-1 tvg-id="vf-fantastic" ,VF Fantastic
 #EXTGRP:VF
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/11121/index.m3u8
+#EXTINF:-1 tvg-id="vf-fantastic" ,VF Fantastic
+#EXTGRP:VF
+http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/11121/index.m3u8
 #EXTINF:-1 tvg-id="vf-oskar" ,VF Оскар
 #EXTGRP:VF
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/11122/index.m3u8
+#EXTINF:-1 tvg-id="vf-oskar" ,VF Оскар
+#EXTGRP:VF
+http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/11122/index.m3u8
 #EXTINF:-1 tvg-id="vf-series" ,VF Series
 #EXTGRP:VF
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/13085/index.m3u8
+#EXTINF:-1 tvg-id="vf-series" ,VF Series
+#EXTGRP:VF
+http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/13085/index.m3u8
 #EXTINF:-1 tvg-id="vf-thrilr" ,VF Thriller
 #EXTGRP:VF
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/13089/index.m3u8
+#EXTINF:-1 tvg-id="vf-thrilr" ,VF Thriller
+#EXTGRP:VF
+http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/13089/index.m3u8
 #EXTINF:-1 tvg-id="vf-kriminal" ,VF Криминал
 #EXTGRP:VF
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/13093/index.m3u8
+#EXTINF:-1 tvg-id="vf-kriminal" ,VF Криминал
+#EXTGRP:VF
+http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/13093/index.m3u8
 #EXTINF:-1 tvg-id="vf-luidefunes" ,VF Луи де Фюнес
 #EXTGRP:VF
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/17000/index.m3u8
+#EXTINF:-1 tvg-id="vf-luidefunes" ,VF Луи де Фюнес
+#EXTGRP:VF
+http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/17000/index.m3u8
 #EXTINF:-1 tvg-id="vf-dzhekichan" ,VF Джеки Чан
 #EXTGRP:VF
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/17009/index.m3u8
+#EXTINF:-1 tvg-id="vf-dzhekichan" ,VF Джеки Чан
+#EXTGRP:VF
+http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/17009/index.m3u8
 #EXTINF:-1 tvg-id="vf-serial4k" ,VF Сериал 4K
 #EXTGRP:VF
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/11115/index.m3u8
+#EXTINF:-1 tvg-id="vf-serial4k" ,VF Сериал 4K
+#EXTGRP:VF
+http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/11115/index.m3u8
 #EXTINF:-1 tvg-id="vf-xfiles" ,VF The X-Files
 #EXTGRP:VF
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/17002/index.m3u8
+#EXTINF:-1 tvg-id="vf-xfiles" ,VF The X-Files
+#EXTGRP:VF
+http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/17002/index.m3u8
 #EXTINF:-1 tvg-id="vf-housemd" ,VF Доктор Хаус
 #EXTGRP:VF
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/17016/index.m3u8
+#EXTINF:-1 tvg-id="vf-housemd" ,VF Доктор Хаус
+#EXTGRP:VF
+http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/17016/index.m3u8
 #EXTINF:-1 tvg-id="vf-besstyzhye" ,VF Бесстыжие
 #EXTGRP:VF
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/10075/index.m3u8
+#EXTINF:-1 tvg-id="vf-besstyzhye" ,VF Бесстыжие
+#EXTGRP:VF
+http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/10075/index.m3u8
 #EXTINF:-1 tvg-id="vf-gaidai" ,VF Леонид Гайдай
 #EXTGRP:VF
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/17004/index.m3u8
+#EXTINF:-1 tvg-id="vf-gaidai" ,VF Леонид Гайдай
+#EXTGRP:VF
+http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/17004/index.m3u8
 #EXTINF:-1 tvg-id="vf-ryazanov" ,VF Эльдар Рязанов
 #EXTGRP:VF
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/17012/index.m3u8
+#EXTINF:-1 tvg-id="vf-ryazanov" ,VF Эльдар Рязанов
+#EXTGRP:VF
+http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/17012/index.m3u8
 #EXTINF:-1 tvg-id="vf-mosfilm" ,VF Мосфильм
 #EXTGRP:VF
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/10084/index.m3u8
+#EXTINF:-1 tvg-id="vf-mosfilm" ,VF Мосфильм
+#EXTGRP:VF
+http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/10084/index.m3u8
 #EXTINF:-1 tvg-id="vf-lenfilm" ,VF Ленфильм
 #EXTGRP:VF
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/18121/index.m3u8
+#EXTINF:-1 tvg-id="vf-lenfilm" ,VF Ленфильм
+#EXTGRP:VF
+http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/18121/index.m3u8
 #EXTINF:-1 tvg-id="vf-kinostudiagorkogo" ,VF Киностудия им. Горького
 #EXTGRP:VF
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/18122/index.m3u8
+#EXTINF:-1 tvg-id="vf-kinostudiagorkogo" ,VF Киностудия им. Горького
+#EXTGRP:VF
+http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/18122/index.m3u8
 #EXTINF:-1 tvg-id="vf-belarusfilm" ,VF Беларусьфильм
 #EXTGRP:VF
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/18125/index.m3u8
+#EXTINF:-1 tvg-id="vf-belarusfilm" ,VF Беларусьфильм
+#EXTGRP:VF
+http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/18125/index.m3u8
 #EXTINF:-1 tvg-id="vf-odesskayakinostudia" ,VF Одесская киностудия
 #EXTGRP:VF
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/18120/index.m3u8
+#EXTINF:-1 tvg-id="vf-odesskayakinostudia" ,VF Одесская киностудия
+#EXTGRP:VF
+http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/18120/index.m3u8
 #EXTINF:-1 tvg-id="vf-rigakinostudia" ,VF Рижская киностудия
 #EXTGRP:VF
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/18123/index.m3u8
+#EXTINF:-1 tvg-id="vf-rigakinostudia" ,VF Рижская киностудия
+#EXTGRP:VF
+http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/18123/index.m3u8
 #EXTINF:-1 tvg-id="vf-sverdlovskkinostudia" ,VF Свердловская киностудия
 #EXTGRP:VF
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/18124/index.m3u8
+#EXTINF:-1 tvg-id="vf-sverdlovskkinostudia" ,VF Свердловская киностудия
+#EXTGRP:VF
+http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/18124/index.m3u8
 #EXTINF:-1 tvg-id="vf-vysocki" ,VF Владимир Высоцкий
 #EXTGRP:VF
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/10066/index.m3u8
+#EXTINF:-1 tvg-id="vf-vysocki" ,VF Владимир Высоцкий
+#EXTGRP:VF
+http://10cac6b4.akadatel.com/iptv/E6RPBPN5RLBP5Z/10066/index.m3u8
 
 
 
@@ -1239,38 +1359,3 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/83HUZRHVU7LZA2/11026/ind
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2PCDLY8XPGWTT4/11026/index.m3u8
 #EXTINF:0 tvg-id="4747" tvg-name="Bcu Ссср [HD]" tvg-logo="http://epg.one/img2/4747.png" group-title="NEW 10.11.26 BCU",Bcu Ссср [HD]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/CS7X8FQ83E4L82/11026/index.m3u8
-
-
-
-
-
-#EXTINF:-1 ,Miami TV Modelsᴴᴰ
-#EXTGRP:Test
-https://59ec5453559f0.streamlock.net:443/miamitvmodels/_definst_/models/media_w1502522195_28397.ts
-#EXTINF:-1 ,Miami TV Modelsᴴᴰ
-#EXTGRP:Test
-https://59ec5453559f0.streamlock.net:443/miamitvmodels/_definst_/models/media_w1502522195_28388.ts
-#EXTINF:-1 ,Miami TV Modelsᴴᴰ
-#EXTGRP:Test
-https://59ec5453559f0.streamlock.net:443/miamitvmodels/_definst_/models/media_w1502522195_28389.ts
-#EXTINF:-1 ,Miami TV Modelsᴴᴰ
-#EXTGRP:Test
-https://59ec5453559f0.streamlock.net:443/miamitvmodels/_definst_/models/media_w1502522195_28390.ts
-#EXTINF:-1 ,Miami TV Modelsᴴᴰ
-#EXTGRP:Test
-https://59ec5453559f0.streamlock.net:443/miamitvmodels/_definst_/models/media_w1502522195_28391.ts
-#EXTINF:-1 ,Miami TV Modelsᴴᴰ
-#EXTGRP:Test
-https://59ec5453559f0.streamlock.net:443/miamitvmodels/_definst_/models/media_w1502522195_28392.ts
-#EXTINF:-1 ,Miami TV Modelsᴴᴰ
-#EXTGRP:Test
-https://59ec5453559f0.streamlock.net:443/miamitvmodels/_definst_/models/media_w1502522195_28393.ts
-#EXTINF:-1 ,Miami TV Modelsᴴᴰ
-#EXTGRP:Test
-https://59ec5453559f0.streamlock.net:443/miamitvmodels/_definst_/models/media_w1502522195_28394.ts
-#EXTINF:-1 ,Miami TV Modelsᴴᴰ
-#EXTGRP:Test
-https://59ec5453559f0.streamlock.net:443/miamitvmodels/_definst_/models/media_w1502522195_28395.ts
-#EXTINF:-1 ,Miami TV Modelsᴴᴰ
-#EXTGRP:Test
-https://59ec5453559f0.streamlock.net:443/miamitvmodels/_definst_/models/media_w1502522195_28396.ts
