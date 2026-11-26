@@ -2,7 +2,7 @@
 
 
 
-#EXTINF:-1 group-title="Инфо" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-hoover.png",IPTV_HOME 25.11.26_02
+#EXTINF:-1 group-title="Инфо" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-hoover.png",IPTV_HOME 26.11.26
 http://95.66.188.74/VHS/index.m3u8
 
 
@@ -864,12 +864,18 @@ http://serv30.vintera.tv:8081/sochi/sochi_stream/chunks.m3u8
 
 
 
-#EXTINF:-1 ,SHIFT TV SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GFTAN5Q.png" ,Miami TV México
 #EXTGRP:Fashion
-https://fl1003.bozztv.com/ushba-t8/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Miami TV Modelsᴴᴰ
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/chunklist_w1931827340_b1896000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GFTAN5Q.png" ,Miami TV Modelsᴴᴰ
 #EXTGRP:Fashion
 https://158c4a71a80948ceb6c3c0696f90f164.mediatailor.us-east-2.amazonaws.com/v1/manifest/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-models/b6587c51-f64a-4f4b-933a-f902aed8a1cc/0.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GFTAN5Q.png" ,Miami TV Modelsᴴᴰ
+#EXTGRP:Fashion
+https://158c4a71a80948ceb6c3c0696f90f164.mediatailor.us-east-2.amazonaws.com/v1/manifest/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-models/cc6204e2-2821-43d0-a123-b7fc6eb7017d/0.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GFTAN5Q.png" ,Miami TV HD
+#EXTGRP:Fashion
+https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
 #EXTINF:-1 tvg-rec="3",Fashion TV RO
 #EXTGRP:Fashion
 http://6e4d1ed1.edmonst.net/iptv/ZLRHFYSV5TCUS5FYPSPUR29F/7051/index.m3u8
